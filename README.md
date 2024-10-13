@@ -40,7 +40,9 @@ OneStop Electronics' lifetime sales (2019-2022) are $28.1M with 108K total order
 The company saw a spike in sales activity in 2020 across all metrics, namely they more than doubled sales revenue ($10.1M) receiving 2x as many orders as the previous year (33.8K) and saw a 30% YoY increase in AOV to $300. In terms of sales revenue, March 2020 saw the biggest MoM growth in the company's history increasing by 50%. The events of COVID-19 and pandemic lockdowns are likely to be a main driver in this period of growth for the company. 
 <br />
 
-![Yearly Trends](https://github.com/user-attachments/assets/3be64722-1d97-46d6-84f9-96210ecb3c81)
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/04bed2c0-9dfe-4feb-82b8-564955c01c9f" width="60%" height="60%">
+</p>
 
 Since 2020, the company has, in general, struggled to maintain the COVID era sales performance seeing a gradual decline in YoY growth rates as the world has returned to more normal levels of activity in 2021 (Sales Revenue: -10% YoY) and especially 2022 (Sales Revenue: -46% YoY). 
 
