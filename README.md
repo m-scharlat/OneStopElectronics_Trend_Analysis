@@ -8,7 +8,7 @@ Founded in 2018, OneStop Electronics is a global e-commerce company specializing
 
 # Find Out More!
 
-<details>
+<details open>
   <summary>Project Goals</summary>
 <br /> 
 OneStop Electronics has been collecting data on a variety of key elements, including orders, order statuses, customer information, products, and geographic data. However, the data is currently unrefined and underutilized, presenting both challenges and opportunities for unlocking valuable insights.
