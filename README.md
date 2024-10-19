@@ -54,7 +54,6 @@ OneStop Electronics' total sales from 2019 to 2022 reached $28M, with 108K total
 
 <p align="center" width="100%">
 <img src="https://github.com/user-attachments/assets/8af24b46-5e93-4d26-87cb-f435ac9304ce"> 
-
 </p>
 
 The following analysis will provide key insights to help guide the company’s strategy moving forward, focusing on areas like geographical trends, product mix, and loyalty program performance. These insights will enable OneStop Electronics to take informed action and identify new opportunities for growth and efficiency as the company navigates post-pandemic challenges.
@@ -65,7 +64,37 @@ The following analysis will provide key insights to help guide the company’s s
 
 ### Historical
 
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/ef05defe-018d-46bf-8e2f-f60b3855d3c0">
+
+</p>
+
+#### Sales Revenue
+- From Jan 2019 through Dec 2020 the company saw its sales revenue grow monthly, on average, by 7% reaching its peak in monthly sales at $1.2M for Dec 2020. This is compared to the company wide average monthly growth rate of 1.4% from 2019-2022. On average, the company has generated $585K in revenue per month.
+- Immediately following this enormous sales growth, the company saw two consecutive down months with an -18% decline in Jan 2021 and a -31% decline in Feb 2021.
+- Since its peak in Dec 2020, sales revenue has been on a gradual decline seeing the company's largest montly decline in sales at -55% in Oct 2022 generating $178K that month.
+- Despite the overarching trend of decline in sales revenue since Dec 2020, there have been a few moments where sales revenue has jumped up. Namely, from June 2021 through Dec 2021 there were two significant sales revenues increases: (1) 10% average monthly growth from June through Sep and a (2) 36% spike in sales from Nov to Dec. 
+
+#### AOV
+- Compared to sales revenue, AOV has reamined relatively steady. AOV peaked in Oct 2020 at $322 per order, whereas as recently as Oct 2022, AOV was at a company low of $217 per order.
+- Following the Oct 2020, AOV has grown for two consecutive months at 4% in Nov 2022 and 3% in Dec 2022.
+- For comparison, from 2019-2022 the company wide monthly growth rate for AOV was 0.3%.  
+
+#### Order Count
+- The number of orders received by the company follows very closely with the trends of sales revenue. Average monthly growth in number of orders from 2019-2022 was 1.1% with an average of 2K per month.
+- The highest number of monthly orders the company recieved was 4K in Dec 2020 while the lowest was in Oct 2022 with 825 monthly orders.
+
 ### Seasonal
+
+#### Sales Revenue
+- 
+
+#### AOV
+- 
+
+#### Order Count
+- 
+
 
 ## Regional Trends
 
