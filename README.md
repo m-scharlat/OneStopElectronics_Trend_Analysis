@@ -64,39 +64,64 @@ The following analysis will provide key insights to help guide the company’s s
 
 ### Historical
 
-<p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/ef05defe-018d-46bf-8e2f-f60b3855d3c0">
-
-</p>
+> <details open>
+>  <summary>Graph - Monthly Sales Trends</summary>
+> <p align="center" width="100%">
+> <img src="https://github.com/user-attachments/assets/ef05defe-018d-46bf-8e2f-f60b3855d3c0">
+> </p>
+> </details>
 
 #### Sales Revenue
-- From Jan 2019 through Dec 2020 the company saw its sales revenue grow monthly, on average, by 7% reaching its peak in monthly sales at $1.2M for Dec 2020. This is compared to the company wide average monthly growth rate of 1.4% from 2019-2022. On average, the company has generated $585K in revenue per month.
-- Immediately following this enormous sales growth, the company saw two consecutive down months with an -18% decline in Jan 2021 and a -31% decline in Feb 2021.
-- Since its peak in Dec 2020, sales revenue has been on a gradual decline seeing the company's largest montly decline in sales at -55% in Oct 2022 generating $178K that month.
-- Despite the overarching trend of decline in sales revenue since Dec 2020, there have been a few moments where sales revenue has jumped up. Namely, from June 2021 through Dec 2021 there were two significant sales revenues increases: (1) 10% average monthly growth from June through Sep and a (2) 36% spike in sales from Nov to Dec. 
+- From January 2019 to December 2020, OneStop Electronics saw steady growth in sales revenue, averaging a 7% monthly increase. The company reached a peak of $1.2M in December 2020, compared to a company-wide average monthly growth of just 1.4% from 2019-2022. On average, the company generated $585K in monthly revenue.
+- Following this peak, the company experienced two consecutive months of decline: -18% in January 2021 and -31% in February 2021. Since December 2020, sales have generally declined, with the largest drop occurring in October 2022 (-55%), where sales fell to $178K.
+- Despite the overall downward trend, there were moments of recovery. From June to September 2021, sales grew by 10% monthly on average, and a 36% spike occurred from November to December 2021.
 
 #### AOV
-- Compared to sales revenue, AOV has reamined relatively steady. AOV peaked in Oct 2020 at $322 per order, whereas as recently as Oct 2022, AOV was at a company low of $217 per order.
-- Following the Oct 2020, AOV has grown for two consecutive months at 4% in Nov 2022 and 3% in Dec 2022.
-- For comparison, from 2019-2022 the company wide monthly growth rate for AOV was 0.3%.  
+- In contrast to sales revenue, AOV has remained relatively stable. From 2019 to 2022, the average monthly AOV was $253, with a modest average monthly growth rate of 0.3%.
+- AOV peaked at $322 per order in October 2020 but dropped to a low of $217 by October 2022. After this dip, AOV grew by 4% in November 2022 and 3% in December 2022.
 
 #### Order Count
-- The number of orders received by the company follows very closely with the trends of sales revenue. Average monthly growth in number of orders from 2019-2022 was 1.1% with an average of 2K per month.
-- The highest number of monthly orders the company recieved was 4K in Dec 2020 while the lowest was in Oct 2022 with 825 monthly orders.
+- Order count trends closely followed sales revenue. From 2019-2022, the average monthly growth rate for orders was 1.1%, with an average of 2K orders per month.
+- The company saw its highest order volume in December 2020, with 4K orders, and its lowest in October 2022, with 825 orders.
+
+---
 
 ### Seasonal
 
-#### Sales Revenue
+> <details open>
+>  <summary>Pivot Table - Seasonal Analysis</summary>
+> <p align="center" width="100%">
+> <img src="https://github.com/user-attachments/assets/2368b333-720c-44e5-961b-ea3f1fb1b32d" height="75%" width="75%">
+> </p>
+> </details>
+
+- Jan, Sep, and Dec bring in the most revenue on average, generating 25% of total company sales in these 3 months alone.
+- Conversely, sales typically slump in Feb, June, and Oct. 
+- The data show a seasonal uptick in AOV over the fall season with average AOVs of $263 in Aug, $268 in Sep, and $272 in Oct. 
+
+## Geographic Trends
+
+### Regional
+> <details>
+>  <summary>Graph - Regional Trends</summary>
+> <p align="center" width="100%">
+> <img src="https://github.com/user-attachments/assets/89c80c23-7a87-419f-a72b-8f362e8d0d70" height="75%" width="75%">
+> </p>
+> </details>
+
 - 
 
-#### AOV
+---
+
+### By Country
+> <details>
+>  <summary>Graph - Top 10 Country Sales</summary>
+> <p align="center" width="100%">
+> <img src="https://github.com/user-attachments/assets/0296ee1a-ef5a-42f2-8d28-9990a6194c38" height="75%" width="75%">
+> </p>
+> </details>
+
 - 
-
-#### Order Count
-- 
-
-
-## Regional Trends
 
 ## Product Trends
 
@@ -104,4 +129,4 @@ The following analysis will provide key insights to help guide the company’s s
 
 ## Refund Rates
 
-The following analysis will provide key insights to help guide the company’s strategy moving forward, allowing them to take informed action to address the challenges ahead.
+# Recommendations
