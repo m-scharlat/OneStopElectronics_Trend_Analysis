@@ -85,7 +85,7 @@ The following analysis will provide key insights to help guide the company’s s
 ## Seasonal
 
 > <details open>
->  <summary>Pivot Table - Seasonality Analysis</summary>
+>  <summary>Pivot Table - Seasonal Analysis</summary>
 > <p align="center" width="100%">
 > <img src="https://github.com/user-attachments/assets/2368b333-720c-44e5-961b-ea3f1fb1b32d" height="75%" width="75%">
 > </p>
