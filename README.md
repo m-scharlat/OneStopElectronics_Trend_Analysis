@@ -82,10 +82,10 @@ The following analysis will provide key insights to help guide the company’s s
 - Order count trends closely followed sales revenue. From 2019-2022, the average monthly growth rate for orders was 1.1%, with an average of 2K orders per month.
 - The company saw its highest order volume in December 2020, with 4K orders, and its lowest in October 2022, with 825 orders.
 
-## Seasonal
+## Seasonality
 
 > <details open>
->  <summary>Pivot Table - Seasonal Analysis</summary>
+>  <summary>Pivot Table - Seasonality Analysis</summary>
 > <p align="center" width="100%">
 > <img src="https://github.com/user-attachments/assets/2368b333-720c-44e5-961b-ea3f1fb1b32d" height="75%" width="75%">
 > </p>
