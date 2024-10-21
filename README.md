@@ -146,6 +146,6 @@ The company introduced a loyalty program in 2019 to incentivize customers to mak
 ### Recommendation:
 Although the data does not provide a decisive conclusion about the loyalty program's impact, the upward trend in loyalty members' performance, particularly in the last two years, suggests potential for future growth. Based on this, it is recommended to retain the loyalty program and closely monitor its performance over the next few years. The recent positive trends warrant further observation before making a long-term decision.
 
-## Refund Rates
+# Refund Rates
 
 # Recommendations
