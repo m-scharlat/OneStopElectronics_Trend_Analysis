@@ -48,9 +48,9 @@ Prior to analyzing the data, a series of actions were taken to ensure the datase
 
 OneStop Electronics' total sales from 2019 to 2022 reached $28M, with 108K total orders. The company's average order value (AOV) across all years stands at $260 per order.
 
-- In 2020, the company experienced a significant spike in sales across all metrics. Sales revenue more than doubled to $10M, driven by a twofold increase in order volume (34K orders). The average order value also saw a 30% year-over-year (YoY) increase, reaching $300. March 2020 marked the highest month-over-month (MoM) growth in the company's history, with a 50% increase in sales. This surge can likely be attributed to the impact of COVID-19 and the resulting lockdowns.
+- In 2020, the company experienced a significant spike in sales across all metrics. Sales revenue more than doubled to $10M, driven by a twofold increase in order volume (34K orders). The average order value also saw a 30% year-over-year (YoY) increase, reaching $300. March 2020 marked the highest month-over-month (MoM) growth in the company's history, with a 50% increase in sales. This surge can likely be attributed to the impact of COVID-19 and the resulting lockdowns
 
-- However, since 2020, the company has struggled to sustain the high sales levels seen during the pandemic. As global activities returned to normal, OneStop Electronics experienced a decline in YoY growth, with sales revenue dropping by 10% in 2021 and a sharper decline of 46% in 2022. AOV and order count have also followed a similair trend.
+- However, since 2020, the company has struggled to sustain the high sales levels seen during the pandemic. As global activities returned to normal, OneStop Electronics experienced a decline in YoY growth, with sales revenue dropping by 10% in 2021 and a sharper decline of 46% in 2022. AOV and order count have also followed a similair trend
 
 <p align="center" width="100%">
 <img src="https://github.com/user-attachments/assets/8af24b46-5e93-4d26-87cb-f435ac9304ce"> 
@@ -70,17 +70,17 @@ The following analysis will provide key insights to help guide the company’s s
 > </details>
 
 ### Sales Revenue
-- From January 2019 to December 2020, OneStop Electronics saw steady growth in sales revenue, averaging a 7% monthly increase. The company reached a peak of $1.2M in December 2020, compared to a company-wide average monthly growth of just 1.4% from 2019-2022. On average, the company generated $585K in monthly revenue.
-- Following this peak, the company experienced two consecutive months of decline: -18% in January 2021 and -31% in February 2021. Since December 2020, sales have generally declined, with the largest drop occurring in October 2022 (-55%), where sales fell to $178K.
-- Despite the overall downward trend, there were moments of recovery. From June to September 2021, sales grew by 10% monthly on average, and a 36% spike occurred from November to December 2021.
+- From January 2019 to December 2020, OneStop Electronics saw steady growth in sales revenue, averaging a 7% monthly increase. The company reached a peak of $1.2M in December 2020, compared to a company-wide average monthly growth of just 1.4% from 2019-2022. On average, the company generated $585K in monthly revenue
+- Following this peak, the company experienced two consecutive months of decline: -18% in January 2021 and -31% in February 2021. Since December 2020, sales have generally declined, with the largest drop occurring in October 2022 (-55%), where sales fell to $178K
+- Despite the overall downward trend, there were moments of recovery. From June to September 2021, sales grew by 10% monthly on average, and a 36% spike occurred from November to December 2021
 
 ### AOV
-- In contrast to sales revenue, AOV has remained relatively stable. From 2019 to 2022, the average monthly AOV was $253, with a modest average monthly growth rate of 0.3%.
-- AOV peaked at $322 per order in October 2020 but dropped to a low of $217 by October 2022. After this dip, AOV grew by 4% in November 2022 and 3% in December 2022.
+- In contrast to sales revenue, AOV has remained relatively stable. From 2019 to 2022, the average monthly AOV was $253, with a modest average monthly growth rate of 0.3%
+- AOV peaked at $322 per order in October 2020 but dropped to a low of $217 by October 2022. After this dip, AOV grew by 4% in November 2022 and 3% in December 2022
 
 ### Order Count
-- Order count trends closely followed sales revenue. From 2019-2022, the average monthly growth rate for orders was 1.1%, with an average of 2K orders per month.
-- The company saw its highest order volume in December 2020, with 4K orders, and its lowest in October 2022, with 825 orders.
+- Order count trends closely followed sales revenue. From 2019-2022, the average monthly growth rate for orders was 1.1%, with an average of 2K orders per month
+- The company saw its highest order volume in December 2020, with 4K orders, and its lowest in October 2022, with 825 orders
 
 ## Seasonal
 
@@ -91,9 +91,9 @@ The following analysis will provide key insights to help guide the company’s s
 > </p>
 > </details>
 
-- Jan, Sep, and Dec consistently generate the highest order counts and revenue, contributing 25% of total company sales in these three months alone.
-- In contrast, sales and order counts tend to dip in Feb, June, and Oct, with Feb and Oct typically seeing a 25% decline from the previous month.
-- The data also a seasonal increase in AOV during the fall, with averages of $263 in Aug, $268 in Sep, and $272 in Oct.
+- Jan, Sep, and Dec consistently generate the highest order counts and revenue, contributing 25% of total company sales in these three months alone
+- In contrast, sales and order counts tend to dip in Feb, June, and Oct, with Feb and Oct typically seeing a 25% decline from the previous month
+- The data also a seasonal increase in AOV during the fall, with averages of $263 in Aug, $268 in Sep, and $272 in Oct
 
 # Geographic Trends
 
@@ -104,44 +104,67 @@ OneStop Electronics operates across four regions and 194 countries. A closer exa
 > <details>
 >  <summary>Pivot Table - Regional Trends</summary>
 > <p align="center" width="100%">
-> <img src="https://github.com/user-attachments/assets/cb8032ca-4f06-4266-b090-74b864323b41" height="75%" width="75%">
+> <img src="https://github.com/user-attachments/assets/f5c1dc17-879a-4b23-9a87-06725651a82c" height="75%" width="75%">
 > </p>
 > </details>
 
-- Across all regions, OneStop Electronics averaged $7M in sales with 26K orders.
-- North America was the best-performing region, generating $14M in sales and accounting for more than 50% of total company sales. In contrast, Latin America was the lowest-performing region, with just $1.6M in sales.
-- APAC leads in terms of the highest average order value (AOV), with an average AOV of $280. This is largely driven by Japan, which has an exceptionally high AOV of $393.
+- Across all regions, OneStop Electronics averaged $7M in sales with 26K orders
+- North America was the best-performing region, generating $14M in sales and accounting for more than 50% of total company sales. In contrast, Latin America was the lowest-performing region, with just $1.6M in sales
+- APAC leads in terms of the highest average order value (AOV), with an average AOV of $280. This is largely driven by Japan, which has an exceptionally high AOV of $393
 
 ## By Country
 
 > <details>
->  <summary>Graph - Top 10 Countries</summary>
+>  <summary>Graph - Top 10 Countries (By Sales)</summary>
 > <p align="center" width="100%">
 > <img src="https://github.com/user-attachments/assets/d13b27cb-045c-4571-babd-22d0ecc477a3">
 > </p>
 > </details>
 
-- The United States is the company's top-performing country, driving 47% of total sales, and is the primary contributor to North America's dominance in both sales revenue and order count.
-- The top 10 countries by sales revenue account for approximately 80% of total sales. These countries, ranked by sales revenue, are: United States, United Kingdom, Canada, Japan, Germany, Australia, Brazil, France, Spain, and the Netherlands.
-- Among these top 10 countries, Japan ($393) and the Netherlands ($289) have the highest AOV, while Spain has the lowest AOV at $223.
+- The United States is the company's top-performing country, driving 47% of total sales, and is the primary contributor to North America's dominance in both sales revenue and order count
+- The top 10 countries by sales revenue account for approximately 80% of total sales. These countries, ranked by sales revenue, are: United States, United Kingdom, Canada, Japan, Germany, Australia, Brazil, France, Spain, and the Netherlands
+- Among these top 10 countries, Japan ($393) and the Netherlands ($289) have the highest AOV, while Spain has the lowest AOV at $223
 
 # Product Trends
 
+> <details open>
+>  <summary>Pivot Table - Product Performance</summary>
+> <p align="center" width="100%">
+> <img src="https://github.com/user-attachments/assets/3e52ce6f-9474-4fba-a3ca-e2c5b39e8d09" height="85%" width="85%">
+
+
+> </p>
+> </details>
+
+### Best Performing Products
+
+- The top three products by sales revenue: 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air account for 85% of total sales, generating $9.8M, $7.7M, and $6.2M, respectively
+- The products with the highest average order value (AOV) are the MacBook Air ($1,591), ThinkPad ($1,101), and Apple iPhone ($741)
+- Apple AirPods lead in order volume with 48K orders, followed by the 27-inch 4K Gaming Monitor with 23K orders, and the Samsung Charging Cable Pack with 21K orders
+
+### Worst Performing Products
+- The worst performing products in terms of sales revenue and order counts are the Bose Soundsport and Apple Iphone, while Samsung products have the lowest AOV across the board
+- Across all metrics, the Bose Soundsport underperformed, with just $3K in total sales and 27 orders. Its low AOV further reinforced its weak performance
+
+### Notable Insights:
+- Despite low sales and order counts, the Apple iPhone has the third-highest AOV, indicating untapped potential. By exploring ways to increase iPhone sales, the company could significantly boost overall revenue if the high AOV trend persists
+- Macbook Air sales were the main driver of the company's revenue spike in 2020 growing a whopping 384% from 2019 to 2020 (more than double the growth of the next highest product in terms of YoY growth from 2019 to 2020)
+   
 # Loyalty Program
 
-> <details>
+> <details open>
 >  <summary>Graph - Should the company keep its loyalty program?</summary>
 > <p align="center" width="100%">
-> <img src="https://github.com/user-attachments/assets/57d9faa4-8884-4bcc-b714-8c6da342662b" height="75%" width="75%">
+> <img src="https://github.com/user-attachments/assets/57d9faa4-8884-4bcc-b714-8c6da342662b" height="85%" width="85%">
 > </p>
 > </details>
 
 The company introduced a loyalty program in 2019 to incentivize customers to make more frequent purchases. Five years later, they are evaluating whether to continue the program.
 
 ### Key Insights:
-- Overall, non-loyalty members have outpaced loyalty members in total sales, generating $17M compared to $11M, with generally higher AOV (except in 2022).
-- However, a trend reversal occurred after the first two years. Since then, loyalty members have surpassed non-loyalty members in both sales and order count.
-- Additionally, loyalty members' AOV has been steadily rising and, by 2022, exceeded the AOV of non-loyalty members.
+- Overall, non-loyalty members have outpaced loyalty members in total sales, generating $17M compared to $11M, with generally higher AOV (except in 2022)
+- However, a trend reversal occurred after the first two years. Since then, loyalty members have surpassed non-loyalty members in both sales and order count
+- Additionally, loyalty members' AOV has been steadily rising and, by 2022, exceeded the AOV of non-loyalty members
 
 ### Recommendation:
 Although the data does not provide a decisive conclusion about the loyalty program's impact, the upward trend in loyalty members' performance, particularly in the last two years, suggests potential for future growth. Based on this, it is recommended to retain the loyalty program and closely monitor its performance over the next few years. The recent positive trends warrant further observation before making a long-term decision.
