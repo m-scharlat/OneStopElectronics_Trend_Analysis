@@ -95,7 +95,7 @@ The following analysis will provide key insights to help guide the company’s s
 - In contrast, sales and order counts tend to dip in Feb, June, and Oct, with Feb and Oct typically seeing a 25% decline from the previous month
 - The data also a seasonal increase in AOV during the fall, with averages of $263 in Aug, $268 in Sep, and $272 in Oct
 
-# Geographic Trends
+# Geographical Trends
 
 OneStop Electronics operates across four regions and 194 countries. A closer examination of geographical trends will provide valuable insights into the company’s performance across different markets, helping to identify both current challenges and potential opportunities for growth.
 
