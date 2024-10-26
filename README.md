@@ -62,12 +62,10 @@ The following analysis will provide key insights to help guide the company’s s
 
 ## Historical
 
-> <details open>
->  <summary>Graph - Monthly Sales Trends</summary>
-> <p align="center" width="100%">
-> <img src="https://github.com/user-attachments/assets/ef05defe-018d-46bf-8e2f-f60b3855d3c0">
-> </p>
-> </details>
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/ef05defe-018d-46bf-8e2f-f60b3855d3c0">
+</p>
+
 
 ### Sales Revenue
 - From January 2019 to December 2020, OneStop Electronics saw steady growth in sales revenue, averaging a 7% monthly increase. The company reached a peak of $1.2M in December 2020, compared to a company-wide average monthly growth of just 1.4% from 2019-2022. On average, the company generated $585K in monthly revenue
@@ -84,12 +82,9 @@ The following analysis will provide key insights to help guide the company’s s
 
 ## Seasonal
 
-> <details open>
->  <summary>Pivot Table - Seasonal Analysis</summary>
-> <p align="center" width="100%">
-> <img src="https://github.com/user-attachments/assets/2368b333-720c-44e5-961b-ea3f1fb1b32d" height="75%" width="75%">
-> </p>
-> </details>
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/2368b333-720c-44e5-961b-ea3f1fb1b32d" height="75%" width="75%">
+</p>
 
 - Jan, Sep, and Dec consistently generate the highest order counts and revenue, contributing 25% of total company sales in these three months alone
 - In contrast, sales and order counts tend to dip in Feb, June, and Oct, with Feb and Oct typically seeing a 25% decline from the previous month
@@ -101,12 +96,9 @@ OneStop Electronics operates across four regions and 194 countries. A closer exa
 
 ## Regional 
 
-> <details>
->  <summary>Pivot Table - Regional Trends</summary>
-> <p align="center" width="100%">
-> <img src="https://github.com/user-attachments/assets/f5c1dc17-879a-4b23-9a87-06725651a82c" height="75%" width="75%">
-> </p>
-> </details>
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/f5c1dc17-879a-4b23-9a87-06725651a82c" height="75%" width="75%">
+</p>
 
 - Across all regions, OneStop Electronics averaged $7M in sales with 26K orders
 - North America was the best-performing region, generating $14M in sales and accounting for more than 50% of total company sales. In contrast, Latin America was the lowest-performing region, with just $1.6M in sales
@@ -114,12 +106,10 @@ OneStop Electronics operates across four regions and 194 countries. A closer exa
 
 ## By Country
 
-> <details>
->  <summary>Graph - Top 10 Countries (By Sales)</summary>
-> <p align="center" width="100%">
-> <img src="https://github.com/user-attachments/assets/d13b27cb-045c-4571-babd-22d0ecc477a3">
-> </p>
-> </details>
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/d13b27cb-045c-4571-babd-22d0ecc477a3">
+</p>
+
 
 - The United States is the company's top-performing country, driving 47% of total sales, and is the primary contributor to North America's dominance in both sales revenue and order count
 - The top 10 countries by sales revenue account for approximately 80% of total sales. These countries, ranked by sales revenue, are: United States, United Kingdom, Canada, Japan, Germany, Australia, Brazil, France, Spain, and the Netherlands
@@ -127,14 +117,9 @@ OneStop Electronics operates across four regions and 194 countries. A closer exa
 
 # Product Trends
 
-> <details open>
->  <summary>Pivot Table - Product Performance</summary>
-> <p align="center" width="100%">
-> <img src="https://github.com/user-attachments/assets/3e52ce6f-9474-4fba-a3ca-e2c5b39e8d09" height="85%" width="85%">
-
-
-> </p>
-> </details>
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/3e52ce6f-9474-4fba-a3ca-e2c5b39e8d09" height="75%" width="75%">
+</p>
 
 ### Best Performing Products
 
@@ -152,12 +137,11 @@ OneStop Electronics operates across four regions and 194 countries. A closer exa
    
 # Loyalty Program
 
-> <details open>
->  <summary>Graph - Should the company keep its loyalty program?</summary>
-> <p align="center" width="100%">
-> <img src="https://github.com/user-attachments/assets/57d9faa4-8884-4bcc-b714-8c6da342662b" height="85%" width="85%">
-> </p>
-> </details>
+> ### Should the company keep the loyalty program?
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/57d9faa4-8884-4bcc-b714-8c6da342662b" height="85%" width="85%">
+</p>
+
 
 The company introduced a loyalty program in 2019 to incentivize customers to make more frequent purchases. Five years later, they are evaluating whether to continue the program.
 
@@ -170,7 +154,39 @@ The company introduced a loyalty program in 2019 to incentivize customers to mak
 Although the data does not provide a decisive conclusion about the loyalty program's impact, the upward trend in loyalty members' performance, particularly in the last two years, suggests potential for future growth. Based on this, it is recommended to retain the loyalty program and closely monitor its performance over the next few years. The recent positive trends warrant further observation before making a long-term decision.
 
 <!-- Commented out parts
+
 # Refund Rates
 
+From 2019-2022, the company wide refund rate was 5%, totaling 5,377 refunds out of 108K orders. Total refunded sales amounted to $2.1M.
+
+## Across All Products
+
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/97bf2075-c726-480a-8aa3-3c603e470fb8">
+</p>
+
+### Most Refunded Products:
+-  Refund Rates: Thinkpad (11.7%), Macbook Air (11.4%), and Apple IPhone (7.6%) had the highest refund rates of all products
+-  Refund Count: Apple Airpods and 27in 4K Gaming Monitor were refunded the most frequently with 2.6K and 1.4K refunds respectively
+-  Total Refunded Amount: Macbook Air ($719K), 27in 4K Gaming Monitor ($607K), Apple Airpods ($421K), and Thinkpad ($376K) had the highest total refund sales
+
+### Least Refunded Products:
+
+-  Refund Rates: Samsung Charging Cable Pack were refunded 1.3% of the time and Samsung Webcam was refunded 2.6% of the time
+-  Refund Count: Apple IPhone has the lowest refund count by far at only 22 times. The next lowest product is the Samsung Webcam at 186 refunds
+-  Total Refunded Amount: Samsung Charging Cable ($6K), Samsung Webcam ($9.3K), and Apple IPhone ($6K) are the products with the lowest amount of refunded sales
+
+**Note:** Bose Soundsport were the only product never refunded
+
+### Notable Insights: 
+- Together, Apple Airpods (49%) and 27in 4K Gaming Monitor (27%) make up more than 75% of all refunds in terms of refund counts
+
+### By Product Category
+
+### By Brand
+
+## Spotlight: Apple Products 
+
 # Recommendations
+
 -->
