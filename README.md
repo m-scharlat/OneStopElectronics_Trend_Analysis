@@ -66,7 +66,6 @@ The following analysis will provide key insights to help guide the company’s s
 <img src="https://github.com/user-attachments/assets/ef05defe-018d-46bf-8e2f-f60b3855d3c0">
 </p>
 
-
 ### Sales Revenue
 - From January 2019 to December 2020, OneStop Electronics saw steady growth in sales revenue, averaging a 7% monthly increase. The company reached a peak of $1.2M in December 2020, compared to a company-wide average monthly growth of just 1.4% from 2019-2022. On average, the company generated $585K in monthly revenue
 - Following this peak, the company experienced two consecutive months of decline: -18% in January 2021 and -31% in February 2021. Since December 2020, sales have generally declined, with the largest drop occurring in October 2022 (-55%), where sales fell to $178K
@@ -86,9 +85,9 @@ The following analysis will provide key insights to help guide the company’s s
 <img src="https://github.com/user-attachments/assets/2368b333-720c-44e5-961b-ea3f1fb1b32d" height="75%" width="75%">
 </p>
 
-- Jan, Sep, and Dec consistently generate the highest order counts and revenue, contributing 25% of total company sales in these three months alone
-- In contrast, sales and order counts tend to dip in Feb, June, and Oct, with Feb and Oct typically seeing a 25% decline from the previous month
-- The data also a seasonal increase in AOV during the fall, with averages of $263 in Aug, $268 in Sep, and $272 in Oct
+- **Best Performing Months:** Jan, Sep, and Dec consistently generate the highest order counts and revenue, contributing 25% of total company sales in these three months alone
+- **Worst Performing Months:** In contrast, sales and order counts tend to dip in Feb, June, and Oct, with Feb and Oct typically seeing a 25% decline from the previous month
+- **Fall Season Trend:** The data show a seasonal increase in AOV during the fall, with averages of $263 in Aug, $268 in Sep, and $272 in Oct
 
 # Geographical Trends
 
@@ -101,19 +100,19 @@ OneStop Electronics operates across four regions and 194 countries. A closer exa
 </p>
 
 - Across all regions, OneStop Electronics averaged $7M in sales with 26K orders
-- North America was the best-performing region, generating $14M in sales and accounting for more than 50% of total company sales. In contrast, Latin America was the lowest-performing region, with just $1.6M in sales
-- APAC leads in terms of the highest average order value (AOV), with an average AOV of $280. This is largely driven by Japan, which has an exceptionally high AOV of $393
+- **Best Performing Region (Sales):** North America was the best-performing region, generating $14M in sales and accounting for more than 50% of total company sales.
+- **Worst Performing Region (Sales):** In contrast, Latin America was the lowest-performing region, with just $1.6M in sales
+- **Leading Region in AOV:** APAC leads in terms of the highest average order value (AOV), with an average AOV of $280. This is largely driven by Japan, which has an exceptionally high AOV of $393
 
 ## By Country
 
 <p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/d13b27cb-045c-4571-babd-22d0ecc477a3">
+<img src="https://github.com/user-attachments/assets/d13b27cb-045c-4571-babd-22d0ecc477a3" height="75%" width="75%">
 </p>
 
-
-- The United States is the company's top-performing country, driving 47% of total sales, and is the primary contributor to North America's dominance in both sales revenue and order count
-- The top 10 countries by sales revenue account for approximately 80% of total sales. These countries, ranked by sales revenue, are: United States, United Kingdom, Canada, Japan, Germany, Australia, Brazil, France, Spain, and the Netherlands
-- Among these top 10 countries, Japan ($393) and the Netherlands ($289) have the highest AOV, while Spain has the lowest AOV at $223
+- **Top Performing Country:** The United States is the company's top-performing country, driving 47% of total sales, and is the primary contributor to North America's dominance in both sales revenue and order count
+- **Top 10 Countries:** The top 10 countries by sales revenue account for approximately 80% of total sales. These countries, ranked by sales revenue, are: United States, United Kingdom, Canada, Japan, Germany, Australia, Brazil, France, Spain, and the Netherlands
+- **AOV Performance:** Among these top 10 countries, Japan ($393) and the Netherlands ($289) have the highest AOV, while Spain has the lowest AOV at $223
 
 # Product Trends
 
@@ -142,7 +141,6 @@ OneStop Electronics operates across four regions and 194 countries. A closer exa
 <img src="https://github.com/user-attachments/assets/57d9faa4-8884-4bcc-b714-8c6da342662b" height="85%" width="85%">
 </p>
 
-
 The company introduced a loyalty program in 2019 to incentivize customers to make more frequent purchases. Five years later, they are evaluating whether to continue the program.
 
 ### Key Insights:
@@ -153,11 +151,11 @@ The company introduced a loyalty program in 2019 to incentivize customers to mak
 ### Recommendation:
 Although the data does not provide a decisive conclusion about the loyalty program's impact, the upward trend in loyalty members' performance, particularly in the last two years, suggests potential for future growth. Based on this, it is recommended to retain the loyalty program and closely monitor its performance over the next few years. The recent positive trends warrant further observation before making a long-term decision.
 
-<!-- Commented out parts
+<!-- Commented out parts -->
 
 # Refund Rates
 
-From 2019-2022, the company wide refund rate was 5%, totaling 5,377 refunds out of 108K orders. Total refunded sales amounted to $2.1M.
+**Overall Refund Rate:** The company-wide refund rate was 5%, with 5,377 refunds out of 108K orders, totaling $2.1M in refunded sales
 
 ## Across All Products
 
@@ -166,27 +164,55 @@ From 2019-2022, the company wide refund rate was 5%, totaling 5,377 refunds out 
 </p>
 
 ### Most Refunded Products:
--  Refund Rates: Thinkpad (11.7%), Macbook Air (11.4%), and Apple IPhone (7.6%) had the highest refund rates of all products
--  Refund Count: Apple Airpods and 27in 4K Gaming Monitor were refunded the most frequently with 2.6K and 1.4K refunds respectively
--  Total Refunded Amount: Macbook Air ($719K), 27in 4K Gaming Monitor ($607K), Apple Airpods ($421K), and Thinkpad ($376K) had the highest total refund sales
+- **Highest Refund Rates:** ThinkPad (11.7%), MacBook Air (11.4%), and Apple iPhone (7.6%) had the highest refund rates
+- **Most Frequent Refunds:** Apple AirPods and the 27-inch 4K Gaming Monitor were refunded most often, with 2.6K and 1.4K refunds, respectively
+- **Highest Total Refund Amounts:** The MacBook Air ($719K), 27-inch 4K Gaming Monitor ($607K), Apple AirPods ($421K), and ThinkPad ($376K) recorded the highest total refunded sales
 
 ### Least Refunded Products:
+- **Lowest Refund Rates:** The Samsung Charging Cable Pack and Samsung Webcam had refund rates of 1.3% and 2.6%, respectively
+- **Lowest Refund Counts:** The Apple iPhone had the lowest refund count, with only 22 refunds, followed by the Samsung Webcam with 186 refunds
+- **Lowest Total Refund Amounts:** The Samsung Charging Cable Pack ($6K), Samsung Webcam ($9.3K), and Apple iPhone ($6K) had the lowest refunded sales amounts
 
--  Refund Rates: Samsung Charging Cable Pack were refunded 1.3% of the time and Samsung Webcam was refunded 2.6% of the time
--  Refund Count: Apple IPhone has the lowest refund count by far at only 22 times. The next lowest product is the Samsung Webcam at 186 refunds
--  Total Refunded Amount: Samsung Charging Cable ($6K), Samsung Webcam ($9.3K), and Apple IPhone ($6K) are the products with the lowest amount of refunded sales
-
-**Note:** Bose Soundsport were the only product never refunded
+**Note:** The Bose Soundsport was the only product never refunded
 
 ### Notable Insights: 
 - Together, Apple Airpods (49%) and 27in 4K Gaming Monitor (27%) make up more than 75% of all refunds in terms of refund counts
-
-### By Product Category
-
-### By Brand
+- More than 75% of all refunds occurred before 2021 with 18% in 2019 and 58% in 2020
+- 2022 had no refunds
 
 ## Spotlight: Apple Products 
 
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/5045d1ff-ff27-4210-9c9b-ac8653c27fc3">
+
+</p>
+
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/4fc8c094-0f18-4e4e-83cf-6d0ed2542c06">
+</p>
+
+### Refund Metrics: 
+- Apple products have an overall refund rate of 5.9%, totaling slightly over 3K refunds
+- The MacBook Air has the highest refund rate among Apple products at 11.4%, while Apple AirPods were refunded most frequently, with 2.6K refunds, making up 85% of all Apple refunds
+
+### Notable Insights:
+- Apple products account for 58% of all refunds, totaling $841K—the highest refund amount of any brand
+- Approximately 60% of Apple refunds occurred in 2020, with a notable decrease in 2021 and no refunds recorded in 2022
+
 # Recommendations
 
--->
+# Appendix: Tables & Graphs
+> <details>
+>  <summary>Yearly Product Trends (Drivers of 2020 Spike)</summary>
+> <p align="center" width="100%">
+> <img src="https://github.com/user-attachments/assets/c2110688-a93c-4e26-ab6d-33fb03121521" height="85%" width="85%">
+
+> </p>
+> </details>
+
+> <details>
+>  <summary>Pivot Table - Yearly Product Refund Trends</summary>
+> <p align="center" width="100%">
+> <img src="https://github.com/user-attachments/assets/8b0f6ea0-107c-4e92-9ff4-b57a0ff07e6d" height="85%" width="85%">
+> </p>
+> </details>
