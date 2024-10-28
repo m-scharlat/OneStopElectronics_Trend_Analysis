@@ -199,6 +199,7 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 - Apple products account for 58% of all refunds, totaling $841K—the highest refund amount of any brand
 - Approximately 60% of Apple refunds occurred in 2020, with a notable decrease in 2021 and no refunds recorded in 2022
 
+<!-- 
 # Recommendations
 
 # Appendix: Tables & Graphs
@@ -216,3 +217,4 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 > <img src="https://github.com/user-attachments/assets/8b0f6ea0-107c-4e92-9ff4-b57a0ff07e6d" height="85%" width="85%">
 > </p>
 > </details>
+-->
