@@ -8,16 +8,7 @@ Founded in 2018, OneStop Electronics is a global e-commerce company specializing
 
 # Find Out More!
 
-<details>
-  <summary>Project Goals</summary>
-<br /> 
-OneStop Electronics has been collecting data on a variety of key elements, including orders, order statuses, customer information, products, and geographic data. However, the data is currently unrefined and underutilized, presenting both challenges and opportunities for unlocking valuable insights.
-<br /> 
-<br /> 
-In cleaning and analyzing OneStop's data, meaningful insights can be extracted from the dataset to support the company’s various teams—including finance, sales, product, and marketing. By providing actionable data insights, our aim is to improve operational efficiencies and drive better decision-making, ultimately helping OneStop Electronics optimize its processes and deliver superior products globally. 
-</details>
-
-<details>
+<details open>
   <summary>About Our Data</summary>
 <br /> 
 Prior to analyzing the data, a series of actions were taken to ensure the dataset was understood and ready for analysis.
@@ -25,8 +16,17 @@ Prior to analyzing the data, a series of actions were taken to ensure the datase
 <br /> 
   
 **For more details about the dataset and the data cleaning process see below:** <br /> 
-- Dataset Summary & Issue Log [here](https://drive.google.com/file/d/16kxh6qG9sHhr-ZR1ZikRC5AjvIbR3Uq5/view?usp=sharing) <br /> 
-- Check out the ERD [here](https://github.com/user-attachments/assets/31778750-444f-4955-b73f-fc152ed77e35)
+- Check out the ERD [here](https://github.com/user-attachments/assets/31778750-444f-4955-b73f-fc152ed77e35) <br /> 
+- Dataset Summary & Issue Log [here](https://drive.google.com/file/d/16kxh6qG9sHhr-ZR1ZikRC5AjvIbR3Uq5/view?usp=sharing)
+</details>
+
+<details>
+  <summary>Project Goals</summary>
+<br /> 
+OneStop Electronics has been collecting data on a variety of key elements, including orders, order statuses, customer information, products, and geographic data. However, the data is currently unrefined and underutilized, presenting both challenges and opportunities for unlocking valuable insights.
+<br /> 
+<br /> 
+In cleaning and analyzing OneStop's data, meaningful insights can be extracted from the dataset to support the company’s various teams—including finance, sales, product, and marketing. By providing actionable data insights, our aim is to improve operational efficiencies and drive better decision-making, ultimately helping OneStop Electronics optimize its processes and deliver superior products globally. 
 </details>
 
 <details>
@@ -107,7 +107,8 @@ OneStop Electronics operates across four regions and 194 countries. A closer exa
 ## By Country
 
 <p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/d13b27cb-045c-4571-babd-22d0ecc477a3" height="75%" width="75%">
+<img src="https://github.com/user-attachments/assets/048c3be8-aed4-494a-a44a-ea741fe94a4f" height="80%" width="80%">
+
 </p>
 
 - **Top Performing Country:** The United States is the company's top-performing country, driving 47% of total sales, and is the primary contributor to North America's dominance in both sales revenue and order count
@@ -159,10 +160,6 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 
 ## Across All Products
 
-<p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/97bf2075-c726-480a-8aa3-3c603e470fb8">
-</p>
-
 ### Most Refunded Products:
 - **Highest Refund Rates:** ThinkPad (11.7%), MacBook Air (11.4%), and Apple iPhone (7.6%) had the highest refund rates
 - **Most Frequent Refunds:** Apple AirPods and the 27-inch 4K Gaming Monitor were refunded most often, with 2.6K and 1.4K refunds, respectively
@@ -183,11 +180,6 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 ## Spotlight: Apple Products 
 
 <p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/5045d1ff-ff27-4210-9c9b-ac8653c27fc3">
-
-</p>
-
-<p align="center" width="100%">
 <img src="https://github.com/user-attachments/assets/4fc8c094-0f18-4e4e-83cf-6d0ed2542c06">
 </p>
 
@@ -199,22 +191,51 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 - Apple products account for 58% of all refunds, totaling $841K—the highest refund amount of any brand
 - Approximately 60% of Apple refunds occurred in 2020, with a notable decrease in 2021 and no refunds recorded in 2022
 
-<!-- 
+<!--
 # Recommendations
+
+### Seasonal Promotions
+- Given seasonal trends like the Fall AOV surge and the summer sales lull, OneStop Electronics should utilize strategic promotions to either capitalize or make up for seasonal sales trends
+- Some examples of promotions are:
+
+### Product Lineup
+- Bose Soundsport's lackluster performance across all years and metrics warrants consideration for removal from the product lineup
+- Investigate some of the sales trend on the Apple Iphone (with AOV in mind) and formulate an analysis and recommendation regarding the potential of Apple Iphone in the product lineup
+
+### Loyalty Program 
+- The company should provide more benefits and incentives to loyalty members
+- Provide a specific metric found in SQL and use it to provide a targeted recommendation for the company to boost loyalty program experience
+
+### Refund Rates
+- Identify most refunded products and provide a recommendation on how the company can reconcile the problem and reduce refunds 
 
 # Appendix: Tables & Graphs
 > <details>
->  <summary>Yearly Product Trends (Drivers of 2020 Spike)</summary>
+> <summary>Graph - Yearly Product Trends (Drivers of 2020 Spike)</summary>
 > <p align="center" width="100%">
 > <img src="https://github.com/user-attachments/assets/c2110688-a93c-4e26-ab6d-33fb03121521" height="85%" width="85%">
-
 > </p>
 > </details>
 
 > <details>
->  <summary>Pivot Table - Yearly Product Refund Trends</summary>
+> <summary>Pivot Table - Product Refund Metrics (All Products)</summary>
+> <p align="center" width="100%">
+> <img src="https://github.com/user-attachments/assets/97bf2075-c726-480a-8aa3-3c603e470fb8">
+> </p>
+> </details>
+
+> <details>
+> <summary>Pivot Table - Yearly Product Refund Trends</summary>
 > <p align="center" width="100%">
 > <img src="https://github.com/user-attachments/assets/8b0f6ea0-107c-4e92-9ff4-b57a0ff07e6d" height="85%" width="85%">
 > </p>
 > </details>
+
+> <details>
+> <summary>Pivot Table - Apple Product Refund Metrics</summary>
+> <p align="center" width="100%">
+> <img src="https://github.com/user-attachments/assets/5045d1ff-ff27-4210-9c9b-ac8653c27fc3">
+> </p>
+</details
+
 -->
