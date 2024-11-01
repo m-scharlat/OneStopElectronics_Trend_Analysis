@@ -52,9 +52,11 @@ In cleaning and analyzing OneStop's data, meaningful insights can be extracted f
 
 - However, since 2020, the company has struggled to sustain the high sales levels seen during the pandemic. As global activities returned to normal, OneStop Electronics experienced **a decline in YoY growth**, with **sales revenue dropping by 10% in 2021** and a sharper decline of **46% in 2022**. **AOV and order count** have also followed a **similar trend**
 
+<!--
 <p align="center" width="100%">
 <img src="https://github.com/user-attachments/assets/8af24b46-5e93-4d26-87cb-f435ac9304ce"> 
 </p>
+-->
 
 The following analysis will provide key insights to help guide the company’s strategy moving forward, focusing on areas like geographical trends, product mix, and loyalty program performance. These insights will enable OneStop Electronics to take informed action and identify new opportunities for growth and efficiency as the company navigates post-pandemic challenges.
 
@@ -176,12 +178,14 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 - **Most Frequent Refunds:** Apple AirPods and the 27-inch 4K Gaming Monitor were refunded most often, with 2.6K and 1.4K refunds, respectively
 - **Highest Total Refund Amounts:** The MacBook Air ($719K), 27-inch 4K Gaming Monitor ($607K), Apple AirPods ($421K), and ThinkPad ($376K) recorded the highest total refunded sales
 
+<!--
 ### Least Refunded Products:
 - **Lowest Refund Rates:** The Samsung Charging Cable Pack and Samsung Webcam had refund rates of 1.3% and 2.6%, respectively
 - **Lowest Refund Counts:** The Apple iPhone had the lowest refund count, with only 22 refunds, followed by the Samsung Webcam with 186 refunds
 - **Lowest Total Refund Amounts:** The Samsung Charging Cable Pack ($6K), Samsung Webcam ($9.3K), and Apple iPhone ($6K) had the lowest refunded sales amounts
 
 **Note:** The Bose Soundsport was the only product never refunded
+-->
 
 ### Notable Insights: 
 - Together, **Apple Airpods** (49%) and **27in 4K Gaming Monitor** (27%) make up **more than 75% of all refunds** in terms of refund counts
@@ -207,32 +211,33 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 
 Based on the analysis and insights, the team recommends the following: 
 
-### Seasonal Promotions
+## Seasonal Promotions
 Given seasonal trends, such as the Fall AOV surge and the summer sales lull, we recommend OneStop Electronics considers implementing strategic promotions to either capitalize on or counteract these patterns. Some examples include:
 
 - **Fall Savings Event**: Use bundled discounts on high-AOV items like the iPhone and MacBook Air, with a “Buy More, Save More” approach to drive higher-value purchases
 - **Summer Essentials Sale**: Combat the summer sales lull with discounts on essentials (chargers, headphones, etc.) and free shipping to boost order volume
 - **End-of-Year Clearance**: Run a November-December clearance on prior-year models, offering loyalty members early access and extra discounts to increase engagement
 
-### Product Lineup
-- **Bose Soundsport**'s lackluster performance across all years and metrics, warrants consideration of it's place in the product lineup. Work with product and sales teams to evaluate its viability and explore potential alternatives to optimize the product portfolio
+## Product Lineup
+- **Bose Soundsport**'s consistently poor performance across all years and metrics warrants consideration for removal or replacement. Work with product and sales teams to evaluate its viability and explore potential alternatives to optimize the product portfolio
 
-### Strategies to Boost iPhone Sales
+## Strategies to Boost iPhone Sales
 
 To capitalize on the Apple iPhone’s high average order value (AOV) and untapped growth potential, the following strategies are recommended:
 
-- **Target High-Spending Customer Segments**: Focus marketing efforts on customer segments with a history of high-value purchases, using tailored campaigns and promotions to drive more iPhone sales. Ideal segments to target include customers who purchase through the **website**—which averages **$257 higher AOV** than mobile app purchases—**loyalty members**, who have shown a recent trend of higher average spending per order compared to non-loyalty members, and countries such as the **US** (as it is by far the country with the most sales) as well as ones with high average AOV like **Japan**, and **Netherlands**.
+- **Target High-Spending Customer Segments**: Direct marketing efforts toward segments with high-value purchasing patterns to drive more iPhone sales. Key targets include **website customers** (who average **$257 higher AOV** than app users), **loyalty members** (with higher average spending than non-members in 2022), and regions like the **US** (highest sales volume), **Japan**, and the **Netherlands** (highest AOV)
 - **Leverage Cross-Selling Opportunities**: Bundle the iPhone with other Apple products, such as the MacBook Air and Apple AirPods, to encourage complementary purchases and increase the overall transaction value
 
-OneStop should track the effectiveness of these campaigns closely, evaluating shifts in iPhone order volume and AOV. Using this data to refine marketing approaches, optimizing based on customer response and sales performance trends.
+The company should track the effectiveness of these campaigns closely, evaluating shifts in iPhone order volume and AOV. Using this data to refine marketing approaches, optimizing based on customer response and sales performance trends.
 
-### Loyalty Program
+## Loyalty Program
 - The performance of the loyalty program has been steadily improving, and it is recommended to **retain** the program while closely monitoring its results over the next few years
 - To **boost engagement**, the company should consider introducing additional **benefits** and **targeted discounts** for loyalty members. Examples include exclusive promotions and early access to new products
 
-### Refund Rates
+## Refund Rates
 - Collaborate with the product team to investigate the high refund rates of the ThinkPad and MacBook Air laptops, and enhance product descriptions and photos to address potential issues
 
+<!--
 # Appendix: Tables & Graphs
 > <details>
 > <summary>Graph - Yearly Product Trends (Drivers of 2020 Spike)</summary>
@@ -261,5 +266,4 @@ OneStop should track the effectiveness of these campaigns closely, evaluating sh
 > <img src="https://github.com/user-attachments/assets/5045d1ff-ff27-4210-9c9b-ac8653c27fc3">
 > </p>
 </details
-
-
+-->
