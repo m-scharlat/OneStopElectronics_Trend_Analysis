@@ -227,8 +227,8 @@ To capitalize on the Apple iPhone’s high average order value (AOV) and untappe
 OneStop should track the effectiveness of these campaigns closely, evaluating shifts in iPhone order volume and AOV. Using this data to refine marketing approaches, optimizing based on customer response and sales performance trends.
 
 ### Loyalty Program
-- The performance of the loyalty program has been steadily improving, and it is recommended to retain the program while closely monitoring its results over the next few years
-- To boost engagement, the company should consider introducing additional benefits and targeted discounts for loyalty members. Examples include exclusive promotions and early access to new products. These enhancements can further incentivize loyalty members to make repeat purchases and deepen their connection with the brand
+- The performance of the loyalty program has been steadily improving, and it is recommended to **retain** the program while closely monitoring its results over the next few years
+- To **boost engagement**, the company should consider introducing additional **benefits** and **targeted discounts** for loyalty members. Examples include exclusive promotions and early access to new products
 
 ### Refund Rates
 - Collaborate with the product team to investigate the high refund rates of the ThinkPad and MacBook Air laptops, and enhance product descriptions and photos to address potential issues
