@@ -109,10 +109,6 @@ OneStop Electronics operates across four regions and 194 countries. A closer exa
 
 ## By Country
 
-<p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/048c3be8-aed4-494a-a44a-ea741fe94a4f" height="80%" width="80%">
-</p>
-
 - **Top Performing Country:** The **United States** is the company's top-performing country, driving **47% of total sales**, and is the primary contributor to North America's dominance in both sales revenue and order count
 - **Top 10 Countries:** The top 10 countries by sales revenue account for approximately **80% of total sales**. These countries, ranked by sales revenue, are: **United States**, **United Kingdom**, **Canada**, **Japan**, **Germany**, **Australia**, **Brazil**, **France**, **Spain**, and **the Netherlands**
 - **AOV Performance:** Among these top 10 countries, **Japan** (**$393**) and **the Netherlands** (**$289**) have the highest AOV, while **Spain** has the lowest AOV at **$223**
@@ -134,8 +130,16 @@ OneStop Electronics operates across four regions and 194 countries. A closer exa
 - Across all metrics, the **Bose Soundsport** underperformed, with just **$3K** in total sales and **27 orders**. Its **low AOV** further reinforced its weak performance
 
 ### Notable Insights:
-- Despite low sales and order counts, the **Apple iPhone** has the **third-highest AOV**, indicating **untapped potential**. By exploring ways to increase iPhone sales, the company could **significantly boost overall revenue** if the high AOV trend persists
+
+#### Main Driver of 2020 Spike: 
 - **MacBook Air sales** were the main driver of the company's **revenue spike in 2020**, growing **384%** from **2019 to 2020**—more than double the growth of the next highest product in terms of YoY growth from 2019 to 2020
+
+#### Apple iPhone Untapped Sales Potential
+
+- Despite low sales and order counts, the **Apple iPhone** ranks **third-highest in AOV** each year and overall, with an **average AOV of $741**, indicating **untapped potential**. Given the popularity of other **Apple** products sold by the company, focusing on strategies to increase iPhone sales could provide a valuable opportunity to **significantly boost company revenue**
+- However, it’s important to further analyze the iPhone’s performance to confirm that this trend reflects genuine latent potential rather than a fluke due to statistically insignificant data
+- A deeper analysis across more granular time periods shows the iPhone maintains a high AOV, with a **monthly average of $737**. While **43% of iPhones sold were in 2020**, the product has consistently ranked third in AOV each year
+- Additionally, when comparing the iPhone to other low-performing products, it stands out. Most low performers are either lower-priced or have insufficient sales volume to draw meaningful comparisons. Notably, two of the top three products by sales are also Apple products, and the **top three products**, which together make up **85% of total sales**, have an average AOV of **$724**—closely aligned with the iPhone’s AOV. This further supports the idea that the iPhone’s AOV is not an anomaly but part of a broader trend among high-value Apple products
   
 # Loyalty Program
 
@@ -198,23 +202,36 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 - **Apple** products account for **58%** of all refunds, totaling **$841K**—the **highest** refund amount of any brand
 - Approximately **60%** of Apple refunds **occurred in 2020**, with a notable decrease in 2021 and no refunds recorded in 2022
 
-<!--
+<!---->
 # Recommendations
 
+Based on the analysis and insights, the team recommends the following: 
+
 ### Seasonal Promotions
-- Given seasonal trends like the Fall AOV surge and the summer sales lull, OneStop Electronics should utilize strategic promotions to either capitalize or make up for seasonal sales trends
-- Some examples of promotions are:
+Given seasonal trends, such as the Fall AOV surge and the summer sales lull, we recommend OneStop Electronics considers implementing strategic promotions to either capitalize on or counteract these patterns. Some examples include:
+
+- **Fall Savings Event**: Use bundled discounts on high-AOV items like the iPhone and MacBook Air, with a “Buy More, Save More” approach to drive higher-value purchases
+- **Summer Essentials Sale**: Combat the summer sales lull with discounts on essentials (chargers, headphones, etc.) and free shipping to boost order volume
+- **End-of-Year Clearance**: Run a November-December clearance on prior-year models, offering loyalty members early access and extra discounts to increase engagement
 
 ### Product Lineup
-- Bose Soundsport's lackluster performance across all years and metrics warrants consideration for removal from the product lineup
-- Investigate some of the sales trend on the Apple Iphone (with AOV in mind) and formulate an analysis and recommendation regarding the potential of Apple Iphone in the product lineup
+- **Bose Soundsport**'s lackluster performance across all years and metrics, warrants consideration of it's place in the product lineup. Work with product and sales teams to evaluate its viability and explore potential alternatives to optimize the product portfolio
 
-### Loyalty Program 
-- The company should provide more benefits and incentives to loyalty members
-- Provide a specific metric found in SQL and use it to provide a targeted recommendation for the company to boost loyalty program experience
+### Strategies to Boost iPhone Sales
+
+To capitalize on the Apple iPhone’s high average order value (AOV) and untapped growth potential, the following strategies are recommended:
+
+- **Target High-Spending Customer Segments**: Focus marketing efforts on customer segments with a history of high-value purchases, using tailored campaigns and promotions to drive more iPhone sales. Ideal segments to target include customers who purchase through the **website**—which averages **$257 higher AOV** than mobile app purchases—**loyalty members**, who have shown a recent trend of higher average spending per order compared to non-loyalty members, and countries such as the **US** (as it is by far the country with the most sales) as well as ones with high average AOV like **Japan**, and **Netherlands**.
+- **Leverage Cross-Selling Opportunities**: Bundle the iPhone with other Apple products, such as the MacBook Air and Apple AirPods, to encourage complementary purchases and increase the overall transaction value
+
+OneStop should track the effectiveness of these campaigns closely, evaluating shifts in iPhone order volume and AOV. Using this data to refine marketing approaches, optimizing based on customer response and sales performance trends.
+
+### Loyalty Program
+- The performance of the loyalty program has been steadily improving, and it is recommended to retain the program while closely monitoring its results over the next few years
+- To boost engagement, the company should consider introducing additional benefits and targeted discounts for loyalty members. Examples include exclusive promotions and early access to new products. These enhancements can further incentivize loyalty members to make repeat purchases and deepen their connection with the brand
 
 ### Refund Rates
-- Identify most refunded products and provide a recommendation on how the company can reconcile the problem and reduce refunds 
+- Collaborate with the product team to investigate the high refund rates of the ThinkPad and MacBook Air laptops, and enhance product descriptions and photos to address potential issues
 
 # Appendix: Tables & Graphs
 > <details>
@@ -245,4 +262,4 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 > </p>
 </details
 
--->
+
