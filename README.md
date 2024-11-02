@@ -63,7 +63,7 @@ The following analysis will provide key insights to help guide the company’s s
 ## Historical
 
 <p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/ef05defe-018d-46bf-8e2f-f60b3855d3c0">
+<img src="https://github.com/user-attachments/assets/3429f875-b034-4e89-96df-4c221ed4b8ff">
 </p>
 
 ### Sales Revenue
