@@ -211,17 +211,17 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 
 Based on the analysis and insights, the team recommends the following: 
 
-## Seasonal Promotions
+### Seasonal Promotions
 Given seasonal trends, such as the Fall AOV surge and the summer sales lull, we recommend OneStop Electronics considers implementing strategic promotions to either capitalize on or counteract these patterns. Some examples include:
 
 - **Fall Savings Event**: Use bundled discounts on high-AOV items like the iPhone and MacBook Air, with a “Buy More, Save More” approach to drive higher-value purchases
 - **Summer Essentials Sale**: Combat the summer sales lull with discounts on essentials (chargers, headphones, etc.) and free shipping to boost order volume
 - **End-of-Year Clearance**: Run a November-December clearance on prior-year models, offering loyalty members early access and extra discounts to increase engagement
 
-## Product Lineup
+### Product Lineup
 - **Bose Soundsport**'s consistently poor performance across all years and metrics warrants consideration for removal or replacement. Work with product and sales teams to evaluate its viability and explore potential alternatives to optimize the product portfolio
 
-## Strategies to Boost iPhone Sales
+### Strategies to Boost iPhone Sales
 
 To capitalize on the Apple iPhone’s high average order value (AOV) and untapped growth potential, the following strategies are recommended:
 
@@ -230,11 +230,11 @@ To capitalize on the Apple iPhone’s high average order value (AOV) and untappe
 
 The company should track the effectiveness of these campaigns closely, evaluating shifts in iPhone order volume and AOV. Using this data to refine marketing approaches, optimizing based on customer response and sales performance trends.
 
-## Loyalty Program
+### Loyalty Program
 - The performance of the loyalty program has been steadily improving, and it is recommended to **retain** the program while closely monitoring its results over the next few years
 - To **boost engagement**, the company should consider introducing additional **benefits** and **targeted discounts** for loyalty members. Examples include exclusive promotions and early access to new products
 
-## Refund Rates
+### Refund Rates
 - Collaborate with the product team to investigate the high refund rates of the ThinkPad and MacBook Air laptops, and enhance product descriptions and photos to address potential issues
 
 <!--
