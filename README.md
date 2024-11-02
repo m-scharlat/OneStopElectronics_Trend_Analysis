@@ -48,15 +48,13 @@ In cleaning and analyzing OneStop's data, meaningful insights can be extracted f
 
 **OneStop Electronics'** total sales from **2019 to 2022** reached **$28M**, with **108K total orders**. The company's **average order value (AOV)** across all years stands at **$260 per order**.
 
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/1cebe6f3-02bf-4b8b-9e86-22bc6dfed832" height="90%" width="90%">
+</p>
+
 - In **2020**, the company experienced a **significant spike in sales** across all metrics. **Sales revenue more than doubled** to **$10M**, driven by a **twofold increase in order volume** (**34K orders**). The **average order value** also saw a **30% year-over-year (YoY) increase**, reaching **$300**. **March 2020** marked the **highest month-over-month (MoM) growth** in the company's history, with a **50% increase in sales**. This surge can likely be attributed to the impact of COVID-19 and the resulting lockdowns
 
 - However, since 2020, the company has struggled to sustain the high sales levels seen during the pandemic. As global activities returned to normal, OneStop Electronics experienced **a decline in YoY growth**, with **sales revenue dropping by 10% in 2021** and a sharper decline of **46% in 2022**. **AOV and order count** have also followed a **similar trend**
-
-<!--
-<p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/8af24b46-5e93-4d26-87cb-f435ac9304ce"> 
-</p>
--->
 
 The following analysis will provide key insights to help guide the company’s strategy moving forward, focusing on areas like geographical trends, product mix, and loyalty program performance. These insights will enable OneStop Electronics to take informed action and identify new opportunities for growth and efficiency as the company navigates post-pandemic challenges.
 
