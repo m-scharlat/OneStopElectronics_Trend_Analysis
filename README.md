@@ -98,9 +98,11 @@ OneStop Electronics operates across four regions and 194 countries. A closer exa
 
 ## Regional 
 
+<!--
 <p align="center" width="100%">
 <img src="https://github.com/user-attachments/assets/f5c1dc17-879a-4b23-9a87-06725651a82c" height="75%" width="75%">
 </p>
+-->
 
 - Across all regions, OneStop Electronics averaged **$7M** in sales with **26K orders**
 - **Best Performing Region (Sales):** **North America** was the best-performing region, generating **$14M** in sales and accounting for more than **50%** of total company sales
@@ -108,6 +110,10 @@ OneStop Electronics operates across four regions and 194 countries. A closer exa
 - **Leading Region in AOV:** **APAC** leads in terms of the highest average order value (AOV), with an average AOV of **$280**. This is largely driven by **Japan**, which has an exceptionally high AOV of **$393**
 
 ## By Country
+
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/f1c5540c-0f94-40b0-b8c7-bb869295899e" height="85%" width="85%">
+</p>
 
 - **Top Performing Country:** The **United States** is the company's top-performing country, driving **47% of total sales**, and is the primary contributor to North America's dominance in both sales revenue and order count
 - **Top 10 Countries:** The top 10 countries by sales revenue account for approximately **80% of total sales**. These countries, ranked by sales revenue, are: **United States**, **United Kingdom**, **Canada**, **Japan**, **Germany**, **Australia**, **Brazil**, **France**, **Spain**, and **the Netherlands**
