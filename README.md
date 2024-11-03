@@ -96,20 +96,22 @@ The following analysis will provide key insights to help guide the company’s s
 
 OneStop Electronics operates across four regions and 194 countries. A closer examination of geographical trends will provide valuable insights into the company’s performance across different markets, helping to identify both current challenges and potential opportunities for growth.
 
+<!--
 ## Regional 
 
-<!--
 <p align="center" width="100%">
 <img src="https://github.com/user-attachments/assets/f5c1dc17-879a-4b23-9a87-06725651a82c" height="75%" width="75%">
 </p>
 -->
 
-- Across all regions, OneStop Electronics averaged **$7M** in sales with **26K orders**
+<!--
 - **Best Performing Region (Sales):** **North America** was the best-performing region, generating **$14M** in sales and accounting for more than **50%** of total company sales
 - **Worst Performing Region (Sales):** In contrast, **Latin America** was the lowest-performing region, with just **$1.6M** in sales
 - **Leading Region in AOV:** **APAC** leads in terms of the highest average order value (AOV), with an average AOV of **$280**. This is largely driven by **Japan**, which has an exceptionally high AOV of **$393**
 
+
 ## By Country
+-->
 
 <p align="center" width="100%">
 <img src="https://github.com/user-attachments/assets/f1c5540c-0f94-40b0-b8c7-bb869295899e" height="85%" width="85%">
@@ -137,7 +139,7 @@ OneStop Electronics operates across four regions and 194 countries. A closer exa
 
 ### Notable Insights:
 
-#### Main Driver of 2020 Spike: 
+#### Main Driver of 2020 Spike 
 - **MacBook Air sales** were the main driver of the company's **revenue spike in 2020**, growing **384%** from **2019 to 2020**—more than double the growth of the next highest product in terms of YoY growth from 2019 to 2020
 
 #### Apple iPhone Untapped Sales Potential
@@ -151,8 +153,11 @@ OneStop Electronics operates across four regions and 194 countries. A closer exa
 
 > ### Should the company keep the loyalty program?
 <p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/57d9faa4-8884-4bcc-b714-8c6da342662b" height="85%" width="85%">
+<img src="https://github.com/user-attachments/assets/b3d0103b-fe83-4678-93c0-26669082ae15" height="90%" width="90%">
+
 </p>
+
+<!--https://github.com/user-attachments/assets/57d9faa4-8884-4bcc-b714-8c6da342662b-->
 
 The company introduced a loyalty program in 2019 to incentivize customers to make more frequent purchases. Five years later, they are evaluating whether to continue the program.
 
@@ -189,12 +194,13 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 - **Lowest Total Refund Amounts:** The Samsung Charging Cable Pack ($6K), Samsung Webcam ($9.3K), and Apple iPhone ($6K) had the lowest refunded sales amounts
 
 **Note:** The Bose Soundsport was the only product never refunded
--->
+
 
 ### Notable Insights: 
 - Together, **Apple Airpods** (49%) and **27in 4K Gaming Monitor** (27%) make up **more than 75% of all refunds** in terms of refund counts
 - More than **75%** of all refunds occurred **before 2021** with 18% in 2019 and 58% in 2020
 - 2022 had no refunds
+-->
 
 ## Spotlight: Apple Products 
 
