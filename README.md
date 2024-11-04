@@ -1,11 +1,5 @@
 # OneStop Electronics E-Commerce Analysis
 
-## Project Background
-
-![OneStopElectronics Logo](https://github.com/user-attachments/assets/f8007ef5-afd6-4cf1-8cf0-3dc63c9ae42a)
-
-Founded in 2018, OneStop Electronics is a global e-commerce company specializing in popular electronics products. Initially focused on selling through its online platform, the company has rapidly grown, attracting customers worldwide. With a product portfolio that includes high-demand brands such as Apple, Samsung, and Lenovo, OneStop Electronics has become a go-to destination for electronics enthusiasts. The company leverages multiple marketing channels—email campaigns, search engine optimization (SEO), and affiliate partnerships—to reach its expanding customer base. As the business scales, OneStop Electronics continues to strive for excellence in delivering cutting-edge products and customer satisfaction.
-
 <!--
 <details>
   <summary>Table of Contents</summary>
@@ -50,6 +44,12 @@ In cleaning and analyzing OneStop's data, meaningful insights can be extracted f
 - Look at trends over yearly and monthly periods 
 - For refunds and AOV specifically compare across Apple products
 </details>
+
+## Company Background
+
+![OneStopElectronics Logo](https://github.com/user-attachments/assets/f8007ef5-afd6-4cf1-8cf0-3dc63c9ae42a)
+
+Founded in 2018, OneStop Electronics is a global e-commerce company specializing in popular electronics products. Initially focused on selling through its online platform, the company has rapidly grown, attracting customers worldwide. With a product portfolio that includes high-demand brands such as Apple, Samsung, and Lenovo, OneStop Electronics has become a go-to destination for electronics enthusiasts. The company leverages multiple marketing channels—email campaigns, search engine optimization (SEO), and affiliate partnerships—to reach its expanding customer base. As the business scales, OneStop Electronics continues to strive for excellence in delivering cutting-edge products and customer satisfaction.
 
 ## Executive Summary
 
@@ -101,7 +101,7 @@ The following analysis will provide key insights to help guide the company’s s
 - **Fall Season AOV Trend:** The data show a seasonal increase in **AOV** during the fall, with averages of **$263** in August, **$268** in September, and **$272** in October
 - **End-of-Year Sales Surge:** **November** and **December** consistently deliver a surge in **revenue**, with average monthly increases of **18%** and **23%** respectively. This trend is likely driven by holiday season spending
 
-# Geographical Trends
+## Geographical Trends
 
 > ### OneStop Electronics operates across four regions and 194 countries
 
@@ -130,7 +130,7 @@ The following analysis will provide key insights to help guide the company’s s
 - **Top 10 Countries:** The top 10 countries by sales revenue account for approximately **80% of total sales**. These countries, ranked by sales revenue, are: **United States**, **United Kingdom**, **Canada**, **Japan**, **Germany**, **Australia**, **Brazil**, **France**, **Spain**, and **the Netherlands**
 - **AOV Performance:** Among these top 10 countries, **Japan** (**$393**) and **the Netherlands** (**$289**) have the highest AOV, while **Spain** has the lowest AOV at **$223**
 
-# Product Trends
+## Product Trends
 
 <p align="center" width="100%">
 <img src="https://github.com/user-attachments/assets/3e52ce6f-9474-4fba-a3ca-e2c5b39e8d09" height="75%" width="75%">
@@ -158,7 +158,7 @@ The following analysis will provide key insights to help guide the company’s s
 - A deeper analysis across more granular time periods shows the iPhone maintains a high AOV, with a **monthly average of $737**. While **43% of iPhones sold were in 2020**, the product has consistently ranked third in AOV each year
 - Additionally, when comparing the iPhone to other low-performing products, it stands out. Most low performers are either lower-priced or have insufficient sales volume to draw meaningful comparisons. Notably, two of the top three products by sales are also Apple products, and the **top three products**, which together make up **85% of total sales**, have an average AOV of **$724**—closely aligned with the iPhone’s AOV. This further supports the idea that the iPhone’s AOV is not an anomaly but part of a broader trend among high-value Apple products
   
-# Loyalty Program
+## Loyalty Program
 
 > ### Should the company keep the loyalty program?
 <p align="center" width="100%">
@@ -185,13 +185,13 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 
 <!-- Commented out parts -->
 
-# Refund Rates
+## Refund Rates
 
 **Overall Refund Rate:** The company-wide refund rate was **5%**, with **5,377 refunds** out of **108K orders**, totaling **$2.1M** in refunded sales
 
 ## Across All Products
 
-### Most Refunded Products:
+#### Most Refunded Products:
 - **Highest Refund Rates:** ThinkPad (11.7%), MacBook Air (11.4%), and Apple iPhone (7.6%) had the highest refund rates
 - **Most Frequent Refunds:** Apple AirPods and the 27-inch 4K Gaming Monitor were refunded most often, with 2.6K and 1.4K refunds, respectively
 - **Highest Total Refund Amounts:** The MacBook Air ($719K), 27-inch 4K Gaming Monitor ($607K), Apple AirPods ($421K), and ThinkPad ($376K) recorded the highest total refunded sales
@@ -217,16 +217,16 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 <img src="https://github.com/user-attachments/assets/4fc8c094-0f18-4e4e-83cf-6d0ed2542c06">
 </p>
 
-### Refund Metrics: 
+#### Refund Metrics: 
 - Apple products have an overall **refund rate of 5.9%**, totaling slightly over **3K refunds**
 - The MacBook Air has the highest refund rate among Apple products at 11.4%, while Apple AirPods were refunded most frequently, with 2.6K refunds, making up 85% of all Apple refunds
 
-### Notable Insights:
+#### Notable Insights:
 - **Apple** products account for **58%** of all refunds, totaling **$841K**—the **highest** refund amount of any brand
 - Approximately **60%** of Apple refunds **occurred in 2020**, with a notable decrease in 2021 and no refunds recorded in 2022
 
 <!---->
-# Recommendations
+## Recommendations
 
 Based on the analysis and insights, the team recommends the following: 
 
