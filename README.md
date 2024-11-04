@@ -101,6 +101,34 @@ The following analysis will provide key insights to help guide the company’s s
 - **Fall Season AOV Trend:** The data show a seasonal increase in **AOV** during the fall, with averages of **$263** in August, **$268** in September, and **$272** in October
 - **End-of-Year Sales Surge:** **November** and **December** consistently deliver a surge in **revenue**, with average monthly increases of **18%** and **23%** respectively. This trend is likely driven by holiday season spending
 
+## Product Trends
+
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/3e52ce6f-9474-4fba-a3ca-e2c5b39e8d09" height="75%" width="75%">
+</p>
+
+### Best Performing Products
+
+- The top three products by sales revenue—**27-inch 4K Gaming Monitor**, **Apple AirPods**, and **MacBook Air**—account for **85% of total sales**, generating **$9.8M**, **$7.7M**, and **$6.2M**, respectively
+- The products with the highest average order value (AOV) are the **MacBook Air** (**$1,591**), **ThinkPad** (**$1,101**), and **Apple iPhone** (**$741**)
+- **Apple AirPods** lead in order volume with **48K orders**, followed by the **27-inch 4K Gaming Monitor** with **23K orders**, and the **Samsung Charging Cable Pack** with **21K orders**
+
+### Worst Performing Products
+- The worst-performing products in terms of **sales revenue and order counts** are the **Bose Soundsport** and **Apple iPhone**, while **Samsung products** have the **lowest AOV** across the board
+- Across all metrics, the **Bose Soundsport** underperformed, with just **$3K** in total sales and **27 orders**. Its **low AOV** further reinforced its weak performance
+
+### Notable Insights:
+
+#### Main Driver of 2020 Spike 
+- **MacBook Air sales** were the main driver of the company's **revenue spike in 2020**, growing **384%** from **2019 to 2020**—more than double the growth of the next highest product in terms of YoY growth from 2019 to 2020
+
+#### Apple iPhone Untapped Sales Potential
+
+- Despite low sales and order counts, the **Apple iPhone** ranks **third-highest in AOV** each year and overall, with an **average AOV of $741**, indicating **untapped potential**. Given the popularity of other **Apple** products sold by the company, focusing on strategies to increase iPhone sales could provide a valuable opportunity to **significantly boost company revenue**
+- However, it’s important to further analyze the iPhone’s performance to confirm that this trend reflects genuine latent potential rather than a fluke due to statistically insignificant data
+- A deeper analysis across more granular time periods shows the iPhone maintains a high AOV, with a **monthly average of $737**. While **43% of iPhones sold were in 2020**, the product has consistently ranked third in AOV each year
+- Additionally, when comparing the iPhone to other low-performing products, it stands out. Most low performers are either lower-priced or have insufficient sales volume to draw meaningful comparisons. Notably, two of the top three products by sales are also Apple products, and the **top three products**, which together make up **85% of total sales**, have an average AOV of **$724**—closely aligned with the iPhone’s AOV. This further supports the idea that the iPhone’s AOV is not an anomaly but part of a broader trend among high-value Apple products
+
 ## Geographical Trends
 
 > ### OneStop Electronics operates across four regions and 194 countries
@@ -130,34 +158,7 @@ The following analysis will provide key insights to help guide the company’s s
 - **Top 10 Countries:** The top 10 countries by sales revenue account for approximately **80% of total sales**. These countries, ranked by sales revenue, are: **United States**, **United Kingdom**, **Canada**, **Japan**, **Germany**, **Australia**, **Brazil**, **France**, **Spain**, and **the Netherlands**
 - **AOV Performance:** Among these top 10 countries, **Japan** (**$393**) and **the Netherlands** (**$289**) have the highest AOV, while **Spain** has the lowest AOV at **$223**
 
-## Product Trends
-
-<p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/3e52ce6f-9474-4fba-a3ca-e2c5b39e8d09" height="75%" width="75%">
-</p>
-
-### Best Performing Products
-
-- The top three products by sales revenue—**27-inch 4K Gaming Monitor**, **Apple AirPods**, and **MacBook Air**—account for **85% of total sales**, generating **$9.8M**, **$7.7M**, and **$6.2M**, respectively
-- The products with the highest average order value (AOV) are the **MacBook Air** (**$1,591**), **ThinkPad** (**$1,101**), and **Apple iPhone** (**$741**)
-- **Apple AirPods** lead in order volume with **48K orders**, followed by the **27-inch 4K Gaming Monitor** with **23K orders**, and the **Samsung Charging Cable Pack** with **21K orders**
-
-### Worst Performing Products
-- The worst-performing products in terms of **sales revenue and order counts** are the **Bose Soundsport** and **Apple iPhone**, while **Samsung products** have the **lowest AOV** across the board
-- Across all metrics, the **Bose Soundsport** underperformed, with just **$3K** in total sales and **27 orders**. Its **low AOV** further reinforced its weak performance
-
-### Notable Insights:
-
-#### Main Driver of 2020 Spike 
-- **MacBook Air sales** were the main driver of the company's **revenue spike in 2020**, growing **384%** from **2019 to 2020**—more than double the growth of the next highest product in terms of YoY growth from 2019 to 2020
-
-#### Apple iPhone Untapped Sales Potential
-
-- Despite low sales and order counts, the **Apple iPhone** ranks **third-highest in AOV** each year and overall, with an **average AOV of $741**, indicating **untapped potential**. Given the popularity of other **Apple** products sold by the company, focusing on strategies to increase iPhone sales could provide a valuable opportunity to **significantly boost company revenue**
-- However, it’s important to further analyze the iPhone’s performance to confirm that this trend reflects genuine latent potential rather than a fluke due to statistically insignificant data
-- A deeper analysis across more granular time periods shows the iPhone maintains a high AOV, with a **monthly average of $737**. While **43% of iPhones sold were in 2020**, the product has consistently ranked third in AOV each year
-- Additionally, when comparing the iPhone to other low-performing products, it stands out. Most low performers are either lower-priced or have insufficient sales volume to draw meaningful comparisons. Notably, two of the top three products by sales are also Apple products, and the **top three products**, which together make up **85% of total sales**, have an average AOV of **$724**—closely aligned with the iPhone’s AOV. This further supports the idea that the iPhone’s AOV is not an anomaly but part of a broader trend among high-value Apple products
-  
+ 
 ## Loyalty Program
 
 > ### Should the company keep the loyalty program?
