@@ -47,7 +47,7 @@ In cleaning and analyzing OneStop's data, meaningful insights can be extracted f
 <img src="https://github.com/user-attachments/assets/1cebe6f3-02bf-4b8b-9e86-22bc6dfed832" height="75%" width="75%">
 </p>
 
-- In **2020**, the company experienced a **significant spike in sales** across all metrics. **Sales revenue more than doubled** to **$10M**, driven by a **twofold increase in order volume** (**34K orders**). MacBook Air sales were the main product driver of the company's revenue spike in 2020, growing 384% from 2019-2020. **March 2020** marked the **highest month-over-month (MoM) growth** in the company's history, with a **50% increase in sales**. This surge can likely be attributed to the impact of COVID-19 and the resulting lockdowns
+- In **2020**, the company experienced a **significant spike in sales** across all metrics. **Sales revenue more than doubled** to **$10M**, driven by a **twofold increase in order volume** (**34K orders**). **MacBook Air** sales were the main product driver of the company's revenue spike in 2020, growing **384%** from 2019-2020. **March 2020** marked the **highest month-over-month (MoM) growth** in the company's history, with a **50% increase in sales**. This surge can likely be attributed to the impact of COVID-19 and the resulting lockdowns
 
 - However, since 2020, the company has struggled to sustain the high sales levels seen during the pandemic. As global activities returned to normal, OneStop Electronics experienced **a decline in YoY growth**, with **sales revenue dropping by 10% in 2021** and a sharper decline of **46% in 2022**. **AOV and order count** have also followed a **similar trend**
 
@@ -64,17 +64,17 @@ The following analysis will provide key insights to help guide the company’s s
 </p>
 
 #### Sales Revenue
-- From **January 2019 to December 2020**, OneStop Electronics **averaged** a **7% monthly increase** with a **peak** monthly revenue of **$1.2M** in **December 2020**
-- The average monthly growth rate for the **entire period** (2019-2022) was **1.4%**, with an average monthly revenue of **$585K**.
-- Since December 2020, sales have generally declined, with the largest drop occurring in **October 2022 (-55%)**, where monthly sales fell to **$178K**
+- **From January 2019 to December 2020**, OneStop Electronics averaged a 7% monthly increase peaking in December 2020 with $1.2M monthly revenue 
+- **On average, monthly revenue grew** by 1.4%, generating average monthly revenue of $585K.
+- **Since December 2020,** sales have generally declined, with the largest drop occurring in October 2022 (-55%), where monthly sales fell to $178K
 
 #### AOV
-- **AOV** has generally remained stable. From **2019 to 2022**, the average monthly AOV was **$253**, with an average monthly growth rate of **0.3%**
-- AOV peaked at **$322 per order** in **October 2020** but dropped to a low of **$217** by **October 2022**
+- **AOV has remained relatively stable**: From 2019 to 2022, the average monthly AOV was $253, with an average monthly growth rate of 0.3%
+- **AOV peaked** at $322 per order in October 2020 but dropped to a low of $217 by October 2022
 
 #### Order Count
-- **Order count** trends closely followed sales revenue. From **2019-2022**, the average monthly growth rate for orders was **1.1%**, with an average of **2K orders** per month
-- The company saw its highest order volume in **December 2020**, with **4K orders**, and its lowest in **October 2022**, with **825 orders**
+- **Order count** trends closely followed sales revenue. From 2019-2022, the average monthly growth rate for orders was 1.1% with an average of 2K orders per month
+- The company saw its highest order volume in December 2020, with 4K orders, and its lowest in October 2022, with 825 orders
 
 <!--
 #### Sales Revenue
@@ -94,13 +94,13 @@ The following analysis will provide key insights to help guide the company’s s
 ### Seasonal
 
 <p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/2368b333-720c-44e5-961b-ea3f1fb1b32d" height="65%" width="65%">
+<img src="https://github.com/user-attachments/assets/2368b333-720c-44e5-961b-ea3f1fb1b32d" height="80%" width="80%">
 </p> 
 
 #### Key Trends
 - **Best Performing Months:** January, September, and December consistently see the most revenue and number of orders
 - **Worst Performing Months:** In contrast, sales and order counts tend to dip in February, June, and October, with February and October typically seeing a 25% decline from the previous month
-- **Fall Season AOV Trend:** The data show a seasonal increase in AOV during the fall (August-October)
+- **Fall Season AOV Trend:** The data show a seasonal 7% increase in AOV during the fall months (August-October)
 - **End-of-Year Sales Surge:** November and December consistently deliver a surge in revenue, with average monthly increases of 18% and 23% respectively
 
 ## Product Trends
@@ -112,15 +112,9 @@ The following analysis will provide key insights to help guide the company’s s
 - **Highest Grossing Products:** 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air account for 85% of total sales, generating $9.8M, $7.7M, and $6.2M respectively
 - **Most Expensive Products (AOV):** MacBook Air ($1,591), ThinkPad ($1,101), and Apple iPhone ($741) lead products in terms of AOV
 - **Most Ordered Products:** Apple AirPods** lead in order volume with 48K orders, followed by 27-inch 4K Gaming Monitor with 23K orders, and Samsung Charging Cable Pack with 21K orders
-- **Weakest Products:** Bose Soundsport and Apple iPhone generate the lowest sales and orders counts, while Samsung products have the lowest AOV across the board
+- **Weakest Product:** Across all metrics, the Bose Soundsport underperformed, with just $3K in total sales, 27 orders, and an AOV of $124
 
-### Key Insights:
-
-- Across all metrics, the **Bose Soundsport** underperformed, with just **$3K** in total sales and **27 orders**. Its **low AOV** further reinforced its weak performance
- 
-- **Main Driver of 2020 Spike:** MacBook Air sales were the main product driver of the company's revenue spike in 2020, growing 384% YoY from 2019 to 2020—more than double the growth of the next highest product in terms of YoY growth from 2019 to 2020
-
-#### Apple iPhone Untapped Sales Potential
+#### Apple iPhone's Untapped Sales Potential
 
 - Despite low sales and order counts, the **Apple iPhone** consistently ranks **third-highest in AOV**, with an **all-time AOV of $741**, indicating possible **untapped potential**
 - A deeper analysis across more granular time periods shows the iPhone maintains a high AOV, with a **monthly average of $737**. 
@@ -211,7 +205,7 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 ## Spotlight: Apple Products 
 
 <p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/def731a2-4004-476c-9604-12d6c5811fc6" height="90%" width="90%">
+<img src="https://github.com/user-attachments/assets/def731a2-4004-476c-9604-12d6c5811fc6">
 </p>
 
 #### Refund Metrics: 
