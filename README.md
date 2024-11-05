@@ -47,7 +47,7 @@ In cleaning and analyzing OneStop's data, meaningful insights can be extracted f
 <img src="https://github.com/user-attachments/assets/1cebe6f3-02bf-4b8b-9e86-22bc6dfed832" height="75%" width="75%">
 </p>
 
-- In **2020**, the company experienced a **significant spike in sales** across all metrics. **Sales revenue more than doubled** to **$10M**, driven by a **twofold increase in order volume** (**34K orders**). **MacBook Air** sales were the main product driver of this spike, growing **384%** from 2019-2020. **March 2020** marked the **highest month-over-month (MoM) growth** in the company's history, with a **50% increase in sales**. This surge can likely be attributed to the impact of COVID-19 and the resulting lockdowns
+- In **2020**, the company experienced a **significant spike in sales** across all metrics. **Sales revenue more than doubled** to **$10M**, driven by a **twofold increase in order volume** (**34K orders**). **MacBook Air** sales were the main product driver of this spike, growing **384%** from 2019-2020. **March 2020** marked the **highest month-over-month (MoM) growth** in the company's history, with a **50% increase in sales**. This surge can likely be attributed to the impact of increased demand due to COVID-19 and the resulting lockdowns
 
 - However, since 2020, the company has struggled to sustain the high sales levels seen during the pandemic. As global activities returned to normal, OneStop Electronics experienced **a decline in YoY growth**, with **sales revenue dropping by 10% in 2021** and a sharper decline of **46% in 2022**. **AOV and order count** have also followed a **similar trend**
 
@@ -64,17 +64,18 @@ The following analysis will provide key insights to help guide the company’s s
 </p>
 
 #### Sales Revenue
-- **From January 2019 to December 2020**, OneStop Electronics averaged a 7% monthly increase peaking in December 2020 with $1.2M monthly revenue 
-- **On average, monthly revenue grew** by 1.4%, generating average monthly revenue of $585K.
-- **Since December 2020,** sales have generally declined, with the largest drop occurring in October 2022 (-55%), where monthly sales fell to $178K
+- **Entire Period:** On average, monthly revenue grew by 1.4%, generating average monthly revenue of $585K.
+- **COVID Era Growth:** From January 2019 to December 2020, OneStop Electronics averaged 7% monthly revenue growth peaking in December with $1.2M generated in monthly revenue 
+- **Post-COVID:** Since December 2020, sales have generally declined, with the largest drop occurring in October 2022 (-55%), where monthly sales fell to $178K
 
 #### AOV
-- **AOV has remained relatively stable**: From 2019 to 2022, the average monthly AOV was $253, with an average monthly growth rate of 0.3%
-- **AOV peaked** at $322 per order in October 2020 but dropped to a low of $217 by October 2022
+- **Entire Period (2019-2022):** AOV on average was $253 per month, with an average monthly growth rate of 0.3%
+- **Peaks & Valleys in AOV**: AOV saw its highest level at $322 per order in October 2020 but dropped to a low of $217 by October 2022
 
 #### Order Count
-- **Order count** trends closely followed sales revenue. From 2019-2022, the average monthly growth rate for orders was 1.1% with an average of 2K orders per month
-- The company saw its highest order volume in December 2020, with 4K orders, and its lowest in October 2022, with 825 orders
+- **Order count** trends closely followed sales revenue
+- **Entire Period (2019-2022):** The average monthly growth rate for orders was 1.1% with an average of 2K orders per month
+- **Peaks & Valleys in Order Count**: The company saw its highest order volume in December 2020, with 4K orders, but by October 2022 it reached its lowest with 825 orders
 
 <!--
 #### Sales Revenue
