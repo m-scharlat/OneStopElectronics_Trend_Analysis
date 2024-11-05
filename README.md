@@ -9,17 +9,11 @@
 </details>
 -->
 
-<details>
-  <summary>Dataset & Data Cleaning</summary>
-<br /> 
-Prior to analyzing the data, a series of actions were taken to ensure the dataset was understood and ready for analysis.
-<br /> 
-<br /> 
+## Company Background
 
-**For more details about the dataset and the data cleaning process see below:** <br /> 
-- Check out the ERD [here](https://github.com/user-attachments/assets/31778750-444f-4955-b73f-fc152ed77e35) <br />
-- Dataset Summary & Issue Log [here](https://drive.google.com/file/d/16kxh6qG9sHhr-ZR1ZikRC5AjvIbR3Uq5/view?usp=sharing)
-</details>
+![OneStopElectronics Logo](https://github.com/user-attachments/assets/f8007ef5-afd6-4cf1-8cf0-3dc63c9ae42a)
+
+Founded in 2018, OneStop Electronics is a global e-commerce company specializing in popular electronics products. Initially focused on selling through its online platform, the company has rapidly grown, attracting customers worldwide. With a product portfolio that includes high-demand brands such as Apple, Samsung, and Lenovo, OneStop Electronics has become a go-to destination for electronics enthusiasts. The company leverages multiple marketing channels—email campaigns, search engine optimization (SEO), and affiliate partnerships—to reach its expanding customer base. As the business scales, OneStop Electronics continues to strive for excellence in delivering cutting-edge products and customer satisfaction.
 
 <details>
   <summary>Project Goals</summary>
@@ -45,12 +39,6 @@ In cleaning and analyzing OneStop's data, meaningful insights can be extracted f
 - For refunds and AOV specifically compare across Apple products
 </details>
 
-## Company Background
-
-![OneStopElectronics Logo](https://github.com/user-attachments/assets/f8007ef5-afd6-4cf1-8cf0-3dc63c9ae42a)
-
-Founded in 2018, OneStop Electronics is a global e-commerce company specializing in popular electronics products. Initially focused on selling through its online platform, the company has rapidly grown, attracting customers worldwide. With a product portfolio that includes high-demand brands such as Apple, Samsung, and Lenovo, OneStop Electronics has become a go-to destination for electronics enthusiasts. The company leverages multiple marketing channels—email campaigns, search engine optimization (SEO), and affiliate partnerships—to reach its expanding customer base. As the business scales, OneStop Electronics continues to strive for excellence in delivering cutting-edge products and customer satisfaction.
-
 ## Executive Summary
 
 **OneStop Electronics'** total sales from **2019 to 2022** reached **$28M**, with **108K total orders**. The company's **average order value (AOV)** across all years stands at **$260 per order**.
@@ -59,7 +47,7 @@ Founded in 2018, OneStop Electronics is a global e-commerce company specializing
 <img src="https://github.com/user-attachments/assets/1cebe6f3-02bf-4b8b-9e86-22bc6dfed832" height="75%" width="75%">
 </p>
 
-- In **2020**, the company experienced a **significant spike in sales** across all metrics. **Sales revenue more than doubled** to **$10M**, driven by a **twofold increase in order volume** (**34K orders**). The **average order value** also saw a **30% year-over-year (YoY) increase**, reaching **$300**. **March 2020** marked the **highest month-over-month (MoM) growth** in the company's history, with a **50% increase in sales**. This surge can likely be attributed to the impact of COVID-19 and the resulting lockdowns
+- In **2020**, the company experienced a **significant spike in sales** across all metrics. **Sales revenue more than doubled** to **$10M**, driven by a **twofold increase in order volume** (**34K orders**). MacBook Air sales were the main product driver of the company's revenue spike in 2020, growing 384% from 2019-2020. **March 2020** marked the **highest month-over-month (MoM) growth** in the company's history, with a **50% increase in sales**. This surge can likely be attributed to the impact of COVID-19 and the resulting lockdowns
 
 - However, since 2020, the company has struggled to sustain the high sales levels seen during the pandemic. As global activities returned to normal, OneStop Electronics experienced **a decline in YoY growth**, with **sales revenue dropping by 10% in 2021** and a sharper decline of **46% in 2022**. **AOV and order count** have also followed a **similar trend**
 
@@ -67,7 +55,7 @@ Founded in 2018, OneStop Electronics is a global e-commerce company specializing
 The following analysis will provide key insights to help guide the company’s strategy moving forward, focusing on areas like geographical trends, product mix, and loyalty program performance. These insights will enable OneStop Electronics to take informed action and identify new opportunities for growth and efficiency as the company navigates post-pandemic challenges.
 -->
 
-## Sales Trends
+## Sales Trends & Growth Rates
 
 ### Historical
 
@@ -75,6 +63,20 @@ The following analysis will provide key insights to help guide the company’s s
 <img src="https://github.com/user-attachments/assets/3429f875-b034-4e89-96df-4c221ed4b8ff">
 </p>
 
+#### Sales Revenue
+- From **January 2019 to December 2020**, OneStop Electronics **averaged** a **7% monthly increase** with a **peak** monthly revenue of **$1.2M** in **December 2020**
+- The average monthly growth rate for the **entire period** (2019-2022) was **1.4%**, with an average monthly revenue of **$585K**.
+- Since December 2020, sales have generally declined, with the largest drop occurring in **October 2022 (-55%)**, where monthly sales fell to **$178K**
+
+#### AOV
+- **AOV** has generally remained stable. From **2019 to 2022**, the average monthly AOV was **$253**, with an average monthly growth rate of **0.3%**
+- AOV peaked at **$322 per order** in **October 2020** but dropped to a low of **$217** by **October 2022**
+
+#### Order Count
+- **Order count** trends closely followed sales revenue. From **2019-2022**, the average monthly growth rate for orders was **1.1%**, with an average of **2K orders** per month
+- The company saw its highest order volume in **December 2020**, with **4K orders**, and its lowest in **October 2022**, with **825 orders**
+
+<!--
 #### Sales Revenue
 - From **January 2019 to December 2020**, OneStop Electronics experienced steady growth in sales revenue, **averaging** a **7% monthly increase**. This growth led to a **peak** monthly revenue of **$1.2M** in **December 2020**. For comparison, the average monthly growth rate for the **entire period** (2019-2022) was **1.4%**, with an average monthly revenue of **$585K**.
 - Following this peak, the company experienced two consecutive months of decline: **-18%** in **January 2021** and **-31%** in **February 2021**. Since December 2020, sales have generally declined, with the largest drop occurring in **October 2022 (-55%)**, where sales fell to **$178K**
@@ -87,47 +89,42 @@ The following analysis will provide key insights to help guide the company’s s
 #### Order Count
 - **Order count** trends closely followed sales revenue. From **2019-2022**, the average monthly growth rate for orders was **1.1%**, with an average of **2K orders** per month
 - The company saw its highest order volume in **December 2020**, with **4K orders**, and its lowest in **October 2022**, with **825 orders**
+-->
 
 ### Seasonal
 
 <p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/2368b333-720c-44e5-961b-ea3f1fb1b32d" height="75%" width="75%">
-</p>
+<img src="https://github.com/user-attachments/assets/2368b333-720c-44e5-961b-ea3f1fb1b32d" height="65%" width="65%">
+</p> 
 
-- **Best Performing Months:** **January**, **September**, and **December** consistently generate the highest order counts and revenue, contributing **25%** of total company sales in these three months alone
-- **Worst Performing Months:** In contrast, sales and order counts tend to dip in **February**, **June**, and **October**, with February and October typically seeing a **25% decline** from the previous month <br /> 
-
-#### Notable Seasonal Trends
-- **Fall Season AOV Trend:** The data show a seasonal increase in **AOV** during the fall, with averages of **$263** in August, **$268** in September, and **$272** in October
-- **End-of-Year Sales Surge:** **November** and **December** consistently deliver a surge in **revenue**, with average monthly increases of **18%** and **23%** respectively. This trend is likely driven by holiday season spending
+#### Key Trends
+- **Best Performing Months:** January, September, and December consistently see the most revenue and number of orders
+- **Worst Performing Months:** In contrast, sales and order counts tend to dip in February, June, and October, with February and October typically seeing a 25% decline from the previous month
+- **Fall Season AOV Trend:** The data show a seasonal increase in AOV during the fall (August-October)
+- **End-of-Year Sales Surge:** November and December consistently deliver a surge in revenue, with average monthly increases of 18% and 23% respectively
 
 ## Product Trends
 
 <p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/3e52ce6f-9474-4fba-a3ca-e2c5b39e8d09" height="75%" width="75%">
+<img src="https://github.com/user-attachments/assets/48223ff5-db3a-432f-ad17-198600d68ac1">
 </p>
 
-### Best Performing Products
+- **Highest Grossing Products:** 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air account for 85% of total sales, generating $9.8M, $7.7M, and $6.2M respectively
+- **Most Expensive Products (AOV):** MacBook Air ($1,591), ThinkPad ($1,101), and Apple iPhone ($741) lead products in terms of AOV
+- **Most Ordered Products:** Apple AirPods** lead in order volume with 48K orders, followed by 27-inch 4K Gaming Monitor with 23K orders, and Samsung Charging Cable Pack with 21K orders
+- **Weakest Products:** Bose Soundsport and Apple iPhone generate the lowest sales and orders counts, while Samsung products have the lowest AOV across the board
 
-- The top three products by sales revenue—**27-inch 4K Gaming Monitor**, **Apple AirPods**, and **MacBook Air**—account for **85% of total sales**, generating **$9.8M**, **$7.7M**, and **$6.2M**, respectively
-- The products with the highest average order value (AOV) are the **MacBook Air** (**$1,591**), **ThinkPad** (**$1,101**), and **Apple iPhone** (**$741**)
-- **Apple AirPods** lead in order volume with **48K orders**, followed by the **27-inch 4K Gaming Monitor** with **23K orders**, and the **Samsung Charging Cable Pack** with **21K orders**
+### Key Insights:
 
-### Worst Performing Products
-- The worst-performing products in terms of **sales revenue and order counts** are the **Bose Soundsport** and **Apple iPhone**, while **Samsung products** have the **lowest AOV** across the board
 - Across all metrics, the **Bose Soundsport** underperformed, with just **$3K** in total sales and **27 orders**. Its **low AOV** further reinforced its weak performance
-
-### Notable Insights:
-
-#### Main Driver of 2020 Spike 
-- **MacBook Air sales** were the main driver of the company's **revenue spike in 2020**, growing **384%** from **2019 to 2020**—more than double the growth of the next highest product in terms of YoY growth from 2019 to 2020
+ 
+- **Main Driver of 2020 Spike:** MacBook Air sales were the main product driver of the company's revenue spike in 2020, growing 384% YoY from 2019 to 2020—more than double the growth of the next highest product in terms of YoY growth from 2019 to 2020
 
 #### Apple iPhone Untapped Sales Potential
 
-- Despite low sales and order counts, the **Apple iPhone** ranks **third-highest in AOV** each year and overall, with an **average AOV of $741**, indicating **untapped potential**. Given the popularity of other **Apple** products sold by the company, focusing on strategies to increase iPhone sales could provide a valuable opportunity to **significantly boost company revenue**
-- However, it’s important to further analyze the iPhone’s performance to confirm that this trend reflects genuine latent potential rather than a fluke due to statistically insignificant data
-- A deeper analysis across more granular time periods shows the iPhone maintains a high AOV, with a **monthly average of $737**. While **43% of iPhones sold were in 2020**, the product has consistently ranked third in AOV each year
-- Additionally, when comparing the iPhone to other low-performing products, it stands out. Most low performers are either lower-priced or have insufficient sales volume to draw meaningful comparisons. Notably, two of the top three products by sales are also Apple products, and the **top three products**, which together make up **85% of total sales**, have an average AOV of **$724**—closely aligned with the iPhone’s AOV. This further supports the idea that the iPhone’s AOV is not an anomaly but part of a broader trend among high-value Apple products
+- Despite low sales and order counts, the **Apple iPhone** consistently ranks **third-highest in AOV**, with an **all-time AOV of $741**, indicating possible **untapped potential**
+- A deeper analysis across more granular time periods shows the iPhone maintains a high AOV, with a **monthly average of $737**. 
+- Given the popularity of other **Apple** products sold by the company, focusing on strategies to increase iPhone sales could provide a valuable opportunity to **significantly boost company revenue**
 
 ## Geographical Trends
 
@@ -192,7 +189,6 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 
 ## Across All Products
 
-#### Most Refunded Products:
 - **Highest Refund Rates:** ThinkPad (11.7%), MacBook Air (11.4%), and Apple iPhone (7.6%) had the highest refund rates
 - **Most Frequent Refunds:** Apple AirPods and the 27-inch 4K Gaming Monitor were refunded most often, with 2.6K and 1.4K refunds, respectively
 - **Highest Total Refund Amounts:** The MacBook Air ($719K), 27-inch 4K Gaming Monitor ($607K), Apple AirPods ($421K), and ThinkPad ($376K) recorded the highest total refunded sales
@@ -215,7 +211,7 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 ## Spotlight: Apple Products 
 
 <p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/4fc8c094-0f18-4e4e-83cf-6d0ed2542c06">
+<img src="https://github.com/user-attachments/assets/def731a2-4004-476c-9604-12d6c5811fc6" height="90%" width="90%">
 </p>
 
 #### Refund Metrics: 
@@ -232,7 +228,7 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 Based on the analysis and insights, the team recommends the following: 
 
 ### Seasonal Promotions
-Given seasonal trends, such as the Fall AOV surge and the summer sales lull, we recommend OneStop Electronics considers implementing strategic promotions to either capitalize on or counteract these patterns. Some examples include:
+Given seasonal trends, we recommend OneStop Electronics considers implementing strategic promotions to either capitalize on or counteract these patterns. Some examples include:
 
 - **Fall Savings Event**: Use bundled discounts on high-AOV items like the iPhone and MacBook Air, with a “Buy More, Save More” approach to drive higher-value purchases
 - **Summer Essentials Sale**: Combat the summer sales lull with discounts on essentials (chargers, headphones, etc.) and free shipping to boost order volume
@@ -255,7 +251,7 @@ The company should track the effectiveness of these campaigns closely, evaluatin
 - To **boost engagement**, the company should consider introducing additional **benefits** and **targeted discounts** for loyalty members such as exclusive promotions and early access to new products
 
 ### Refund Rates
-- Collaborate with the product team to investigate the high refund rates of the ThinkPad and MacBook Air laptops, and enhance product descriptions and photos to address potential issues
+- Collaborate with the product team to investigate the high refund rates of the ThinkPad and MacBook Air laptops with a focus on reducing the amount of refunds associated with Apple products
 
 <!--
 # Appendix: Tables & Graphs
@@ -287,3 +283,7 @@ The company should track the effectiveness of these campaigns closely, evaluatin
 > </p>
 </details
 -->
+
+## Find Out More!
+
+#### For more details about the dataset and the data cleaning process check out the [ERD](https://github.com/user-attachments/assets/31778750-444f-4955-b73f-fc152ed77e35)  and the [Dataset Summary & Issue Log](https://drive.google.com/file/d/16kxh6qG9sHhr-ZR1ZikRC5AjvIbR3Uq5/view?usp=sharing)
