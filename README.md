@@ -288,7 +288,7 @@ The company should track the effectiveness of these campaigns closely, evaluatin
 
 ## Find Out More!
 -  For more details about the dataset and the data cleaning process check out the [ERD](https://github.com/user-attachments/assets/31778750-444f-4955-b73f-fc152ed77e35)  and the [Dataset Summary & Issue Log](https://drive.google.com/file/d/16kxh6qG9sHhr-ZR1ZikRC5AjvIbR3Uq5/view?usp=sharing)
--  To see more of my [exploration](https://github.com/m-scharlat/OneStopElectronics_Trend_Analysis/blob/main/SQL/OneStopElectronics_exploration.sql) and [analysis](https://github.com/m-scharlat/OneStopElectronics_Trend_Analysis/blob/main/SQL/OneStopElectronics_analysis.sql) in SQL check out the queries
+-  See more of my [exploration](https://github.com/m-scharlat/OneStopElectronics_Trend_Analysis/blob/main/SQL/OneStopElectronics_exploration.sql) and [analysis](https://github.com/m-scharlat/OneStopElectronics_Trend_Analysis/blob/main/SQL/OneStopElectronics_analysis.sql) in SQL
 -  To explore more trends check out the interactive Tableau [workbook](https://github.com/m-scharlat/OneStopElectronics_Trend_Analysis/blob/main/OneStopElectronic_tableau_workbook.twb)
 
 
