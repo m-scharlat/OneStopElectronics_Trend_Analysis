@@ -35,7 +35,7 @@ In cleaning and analyzing OneStop's data, meaningful insights can be extracted f
 
 - [Executive Summary](#executive-summary)
 - [Analysis](#sales-trends--growth-rates)
-    - [Sales Trends and Growth Rates](#sales-trends--growth-rates)
+    - [Sales Trends & Growth Rates](#sales-trends--growth-rates)
     - [Product Trends](#product-trends)
     - [Geographical Trends](#geographical-trends)
     - [Loyalty Program](#loyalty-program)
