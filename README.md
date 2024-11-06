@@ -1,19 +1,26 @@
 # OneStop Electronics E-Commerce Analysis
 
-<!--
-<details>
-  <summary>Table of Contents</summary>
-<br /> 
-<br /> 
-<br /> 
-</details>
--->
-
 ## Company Background
 
 ![OneStopElectronics Logo](https://github.com/user-attachments/assets/f8007ef5-afd6-4cf1-8cf0-3dc63c9ae42a)
 
 Founded in 2018, OneStop Electronics is a global e-commerce company specializing in popular electronics products. Initially focused on selling through its online platform, the company has rapidly grown, attracting customers worldwide. With a product portfolio that includes high-demand brands such as Apple, Samsung, and Lenovo, OneStop Electronics has become a go-to destination for electronics enthusiasts. The company leverages multiple marketing channels—email campaigns, search engine optimization (SEO), and affiliate partnerships—to reach its expanding customer base. As the business scales, OneStop Electronics continues to strive for excellence in delivering cutting-edge products and customer satisfaction.
+
+<details>
+  <summary>Table of Contents</summary>
+
+- [Executive Summary](#executive-summary)
+- Analysis
+    - [Sales Trends and Growth Rates](#sales-trends--growth-rates)
+    - [Key Product Performance](#key-product-performance)
+    - [Customer Growth and Repeat Purchase Trends](#customer-growth-and-repeat-purchase-trends)
+    - [Loyalty Program Performance](#loyalty-program-performance)
+    - [Sales by Platforms & Channels](#sales-by-platforms--channels)
+    - [Refund Rate Trends](#refund-rate-trends)
+- [Actionable Recommendations](#actionable-recommendations)
+- [Assumptions and Caveats](#assumptions-and-caveats)
+  
+</details>
 
 <details>
   <summary>Project Goals</summary>
@@ -64,7 +71,7 @@ The following analysis will provide key insights to help guide the company’s s
 </p>
 
 #### Sales Revenue
-- **Entire Period:** On average, monthly revenue grew by 1.4%, generating average monthly revenue of $585K.
+- **Entire Period (2019-2022):** On average, monthly revenue grew by 1.4%, generating average monthly revenue of $585K.
 - **COVID Era Growth:** From January 2019 to December 2020, OneStop Electronics averaged 7% monthly revenue growth peaking in December with $1.2M generated in monthly revenue 
 - **Post-COVID:** Since December 2020, sales have generally declined, with the largest drop occurring in October 2022 (-55%), where monthly sales fell to $178K
 
@@ -112,7 +119,7 @@ The following analysis will provide key insights to help guide the company’s s
 
 - **Highest Grossing Products:** 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air account for 85% of total sales, generating $9.8M, $7.7M, and $6.2M respectively
 - **Most Expensive Products (AOV):** MacBook Air ($1,591), ThinkPad ($1,101), and Apple iPhone ($741) lead products in terms of AOV
-- **Most Ordered Products:** Apple AirPods** lead in order volume with 48K orders, followed by 27-inch 4K Gaming Monitor with 23K orders, and Samsung Charging Cable Pack with 21K orders
+- **Most Ordered Products:** Apple AirPods lead in order volume with 48K orders, followed by 27-inch 4K Gaming Monitor with 23K orders, and Samsung Charging Cable Pack with 21K orders
 - **Weakest Product:** Across all metrics, the Bose Soundsport underperformed, with just $3K in total sales, 27 orders, and an AOV of $124
 
 #### Apple iPhone's Untapped Sales Potential
@@ -146,9 +153,9 @@ The following analysis will provide key insights to help guide the company’s s
 <img src="https://github.com/user-attachments/assets/f1c5540c-0f94-40b0-b8c7-bb869295899e" height="85%" width="85%">
 </p>
 
-- **Top Performing Country:** The **United States** is the company's top-performing country, driving **47% of total sales**, and is the primary contributor to North America's dominance in both sales revenue and order count
-- **Top 10 Countries:** The top 10 countries by sales revenue account for approximately **80% of total sales**. These countries, ranked by sales revenue, are: **United States**, **United Kingdom**, **Canada**, **Japan**, **Germany**, **Australia**, **Brazil**, **France**, **Spain**, and **the Netherlands**
-- **AOV Performance:** Among these top 10 countries, **Japan** (**$393**) and **the Netherlands** (**$289**) have the highest AOV, while **Spain** has the lowest AOV at **$223**
+- **Top Performing Country:** The United States is the company's top-performing country, driving 47 of total sales, and is the primary contributor to North America's dominance in both sales revenue and order count
+- **Top 10 Countries:** The top 10 countries by sales revenue account for approximately 80% of total sales. These countries, ranked by sales revenue, are: **United States**, **United Kingdom**, **Canada**, **Japan**, **Germany**, **Australia**, **Brazil**, **France**, **Spain**, and **the Netherlands**
+- **AOV Performance:** Among these top 10 countries, Japan ($393) and the Netherlands ($289) have the highest AOV, while Spain has the lowest AOV at $223
 
  
 ## Loyalty Program
@@ -164,12 +171,12 @@ The following analysis will provide key insights to help guide the company’s s
 The company introduced a loyalty program in 2019 to incentivize customers to make more frequent purchases. Five years later, they are evaluating whether to continue the program.
 
 ### Key Insights:
-- Overall, **non-loyalty members** have outpaced **loyalty members** in total sales, generating **$17M** compared to **$11M**, with generally **higher AOV** (except in 2022)
-- However, a **trend reversal** occurred after the first two years. Since then, loyalty members have **surpassed non-loyalty members** in both **sales** and **order count**
-- Additionally, **loyalty members' AOV** has been steadily rising and, by **2022**, exceeded the AOV of non-loyalty members
+- Overall, non-loyalty members have outpaced loyalty members in total sales, generating **$17M** compared to **$11M**, with generally higher AOV (except in 2022)
+- However, a **trend reversal** occurred after the first two years. Since then, loyalty members have **surpassed non-loyalty members** in both sales and order count
+- Additionally, loyalty members' AOV has been steadily rising and, by 2022, exceeded the AOV of non-loyalty members
 
 ### Recommendation:
-Although the data does not provide a decisive conclusion about the loyalty program's impact, the **upward trend** in loyalty members' performance, particularly in the **last two years**, suggests **potential for future growth**. Based on this, it is recommended to **retain the loyalty program** and closely monitor its performance over the next few years. The recent **positive trends** warrant further observation before making a long-term decision.
+Although the data does not provide a decisive conclusion about the loyalty program's impact, the upward trend in loyalty members' performance, particularly in the last two years, suggests potential for future growth. Based on this, it is recommended to retain the loyalty program and closely monitor its performance over the next few years. The recent positive trends warrant further observation before making a long-term decision.
 
 <!--
 ### Recommendation:
@@ -210,7 +217,7 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 </p>
 
 #### Refund Metrics: 
-- Apple products have an overall **refund rate of 5.9%**, totaling slightly over **3K refunds**
+- Apple products have an overall refund rate of 5.9%, totaling slightly over 3K refunds
 - The MacBook Air has the highest refund rate among Apple products at 11.4%, while Apple AirPods were refunded most frequently, with 2.6K refunds, making up 85% of all Apple refunds
 
 #### Notable Insights:
@@ -223,20 +230,21 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 Based on the analysis and insights, the team recommends the following: 
 
 ### Seasonal Promotions
-Given seasonal trends, we recommend OneStop Electronics considers implementing strategic promotions to either capitalize on or counteract these patterns. Some examples include:
+Given seasonal trends, we recommend OneStop Electronics considers implementing strategic promotions to either capitalize on or counteract these patterns. Some suggestions include:
 
 - **Fall Savings Event**: Use bundled discounts on high-AOV items like the iPhone and MacBook Air, with a “Buy More, Save More” approach to drive higher-value purchases
 - **Summer Essentials Sale**: Combat the summer sales lull with discounts on essentials (chargers, headphones, etc.) and free shipping to boost order volume
 - **End-of-Year Clearance**: Run a November-December clearance on prior-year models, offering loyalty members early access and extra discounts to increase engagement
 
 ### Product Lineup
-- **Bose Soundsport**'s consistently poor performance across all years and metrics warrants consideration for removal or replacement. Work with product and sales teams to evaluate its viability and explore potential alternatives to optimize the product portfolio
+- **Bose Soundsport**'s consistently poor performance across all years and metrics warrants consideration for removal or replacement
+- Work with product and sales teams to evaluate its viability and explore potential alternatives to optimize the product portfolio
 
 ### Strategies to Boost iPhone Sales
 
 To capitalize on the Apple iPhone’s high average order value (AOV) and untapped growth potential, the following strategies are recommended:
 
-- **Target High-Spending Customer Segments**: Direct marketing efforts toward segments with high-value purchasing patterns to drive more iPhone sales. Key targets include **website customers** (who average **$257 higher AOV** than app users), **loyalty members** (with higher average spending than non-members in 2022), and regions like the **US** (highest sales volume), **Japan**, and the **Netherlands** (highest AOV)
+- **Target High-Spending Customer Segments**: Direct marketing efforts toward segments with high-value purchasing patterns to drive more iPhone sales. Key targets include **website customers** (who average **$257 higher AOV** than app users), **loyalty members** (with higher average spending than non-members in 2022), and regions like the **US** (highest sales volume), **Japan**, and the **Netherlands** (highest AOV countries)
 - **Leverage Cross-Selling Opportunities**: Bundle the iPhone with other Apple products, such as the MacBook Air and Apple AirPods, to encourage complementary purchases and increase the overall transaction value
 
 The company should track the effectiveness of these campaigns closely, evaluating shifts in iPhone order volume and AOV. Using this data to refine marketing approaches, optimizing based on customer response and sales performance trends.
@@ -280,5 +288,8 @@ The company should track the effectiveness of these campaigns closely, evaluatin
 -->
 
 ## Find Out More!
+-  For more details about the dataset and the data cleaning process check out the [ERD](https://github.com/user-attachments/assets/31778750-444f-4955-b73f-fc152ed77e35)  and the [Dataset Summary & Issue Log](https://drive.google.com/file/d/16kxh6qG9sHhr-ZR1ZikRC5AjvIbR3Uq5/view?usp=sharing)
+-  To see more of my exploration and analysis in SQL check out the queries
+-  To explore more trends check out the interactive Tableau workbook
 
-#### For more details about the dataset and the data cleaning process check out the [ERD](https://github.com/user-attachments/assets/31778750-444f-4955-b73f-fc152ed77e35)  and the [Dataset Summary & Issue Log](https://drive.google.com/file/d/16kxh6qG9sHhr-ZR1ZikRC5AjvIbR3Uq5/view?usp=sharing)
+
