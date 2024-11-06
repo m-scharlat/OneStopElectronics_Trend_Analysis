@@ -10,15 +10,15 @@ Founded in 2018, OneStop Electronics is a global e-commerce company specializing
   <summary>Table of Contents</summary>
 
 - [Executive Summary](#executive-summary)
-- Analysis
+- [Analysis](#sales-trends--growth-rates)
     - [Sales Trends and Growth Rates](#sales-trends--growth-rates)
-    - [Key Product Performance](#key-product-performance)
-    - [Customer Growth and Repeat Purchase Trends](#customer-growth-and-repeat-purchase-trends)
-    - [Loyalty Program Performance](#loyalty-program-performance)
-    - [Sales by Platforms & Channels](#sales-by-platforms--channels)
-    - [Refund Rate Trends](#refund-rate-trends)
-- [Actionable Recommendations](#actionable-recommendations)
-- [Assumptions and Caveats](#assumptions-and-caveats)
+    - [Product Trends](#product-trends)
+    - [Geographical Trends](#geographical-trends)
+    - [Loyalty Program](#loyalty-program)
+    - [Refund Rates](#refund-rates)
+      - [Spotlight: Apple Products](#spotlight-apple-products)
+- [Recommendations](#recommendations)
+- [Find Out More](#assumptions-and-caveats)
   
 </details>
 
