@@ -7,22 +7,6 @@
 Founded in 2018, OneStop Electronics is a global e-commerce company specializing in popular electronics products. Initially focused on selling through its online platform, the company has rapidly grown, attracting customers worldwide. With a product portfolio that includes high-demand brands such as Apple, Samsung, and Lenovo, OneStop Electronics has become a go-to destination for electronics enthusiasts. The company leverages multiple marketing channels—email campaigns, search engine optimization (SEO), and affiliate partnerships—to reach its expanding customer base. As the business scales, OneStop Electronics continues to strive for excellence in delivering cutting-edge products and customer satisfaction.
 
 <details>
-  <summary>Table of Contents</summary>
-
-- [Executive Summary](#executive-summary)
-- [Analysis](#sales-trends--growth-rates)
-    - [Sales Trends and Growth Rates](#sales-trends--growth-rates)
-    - [Product Trends](#product-trends)
-    - [Geographical Trends](#geographical-trends)
-    - [Loyalty Program](#loyalty-program)
-    - [Refund Rates](#refund-rates)
-      - [Spotlight: Apple Products](#spotlight-apple-products)
-- [Recommendations](#recommendations)
-- [Find Out More](#assumptions-and-caveats)
-  
-</details>
-
-<details>
   <summary>Project Goals</summary>
 <br /> 
 OneStop Electronics has been collecting data on a variety of key elements, including orders, order statuses, customer information, products, and geographic data. However, the data is currently unrefined and underutilized, presenting both challenges and opportunities for unlocking valuable insights.
@@ -44,6 +28,21 @@ In cleaning and analyzing OneStop's data, meaningful insights can be extracted f
 - Focus on sales revenue, AOV, and order counts
 - Look at trends over yearly and monthly periods 
 - For refunds and AOV specifically compare across Apple products
+</details>
+
+<details>
+  <summary>Table of Contents</summary>
+
+- [Executive Summary](#executive-summary)
+- [Analysis](#sales-trends--growth-rates)
+    - [Sales Trends and Growth Rates](#sales-trends--growth-rates)
+    - [Product Trends](#product-trends)
+    - [Geographical Trends](#geographical-trends)
+    - [Loyalty Program](#loyalty-program)
+    - [Refund Rates](#refund-rates)
+      - [Spotlight: Apple Products](#spotlight-apple-products)
+- [Recommendations](#recommendations)
+- [Find Out More](#find-out-more)
 </details>
 
 ## Executive Summary
