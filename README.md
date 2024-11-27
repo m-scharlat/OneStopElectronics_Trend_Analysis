@@ -58,6 +58,10 @@ In cleaning and analyzing OneStop's data, meaningful insights can be extracted f
 
 - However, since 2020, the company has struggled to sustain the high sales levels seen during the pandemic. As global activities returned to normal, OneStop Electronics experienced **a decline in YoY growth**, with **sales revenue dropping by 10% in 2021** and a sharper decline of **46% in 2022**. **AOV and order count** have also followed a **similar trend**
 
+- The loyalty program, introduced in 2019, has shown promising growth potential. While non-loyalty members initially outperformed loyalty members in sales, the trend reversed in recent years, with loyalty members now leading in sales, order volume, and AOV. Retaining and optimizing the program could drive future growth
+
+- The Apple iPhone presents a strong opportunity for revenue growth. Despite low sales, its high AOV of $741 indicates untapped potential. Targeted strategies to boost iPhone sales could leverage the existing demand for Apple products and significantly increase revenue
+
 <!--
 The following analysis will provide key insights to help guide the company’s strategy moving forward, focusing on areas like geographical trends, product mix, and loyalty program performance. These insights will enable OneStop Electronics to take informed action and identify new opportunities for growth and efficiency as the company navigates post-pandemic challenges.
 -->
