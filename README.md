@@ -34,7 +34,7 @@ In cleaning and analyzing OneStop's data, meaningful insights can be extracted f
   <summary>Table of Contents</summary>
 
 - [Executive Summary](#executive-summary)
-- [Sales Analysis](#insights-deep-dive)
+- [Insights Deep Dive](#insights-deep-dive)
     - [Historical & Seasonal Trends](#historical-trends)
     - [Product Trends](#product-trends)
     - [Geographical Trends](#geographical-trends)
@@ -42,10 +42,10 @@ In cleaning and analyzing OneStop's data, meaningful insights can be extracted f
     - [Refund Rates](#refund-rates)
       - [Spotlight: Apple Products](#spotlight-apple-products)
 - [Recommendations](#recommendations)
-- [Find Out More](#find-out-more)
+- [Appendix](#appendix)
 </details>
 
-## Executive Summary
+# Executive Summary
 
 **OneStop Electronics'** total sales from **2019 to 2022** reached **$28M**, with **108K total orders**. The company's **average order value (AOV)** across all years stands at **$260 per order**.
 
