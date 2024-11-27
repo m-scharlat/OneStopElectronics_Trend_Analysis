@@ -162,7 +162,8 @@ The following analysis will provide key insights to help guide the company’s s
 
 > ### Should the company keep the loyalty program?
 <p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/b3d0103b-fe83-4678-93c0-26669082ae15" height="90%" width="90%">
+<img src="https://github.com/user-attachments/assets/4e0bb216-06cf-44b5-9def-f31b87f785ea" height="90%" width="90%"> <!--https://github.com/user-attachments/assets/b3d0103b-fe83-4678-93c0-26669082ae15-->
+
 
 </p>
 
