@@ -47,18 +47,17 @@ In cleaning and analyzing OneStop's data, meaningful insights can be extracted f
 
 # Executive Summary
 
-**OneStop Electronics'** total sales from **2019 to 2022** reached **$28M**, with **108K total orders**. The company's **average order value (AOV)** across all years stands at **$260 per order**.
-
 <p align="center" width="100%">
 <img src="https://github.com/user-attachments/assets/e6bfff9d-789c-4805-a3e2-182a9395eb49" height="100%" width="100%"> <!--https://github.com/user-attachments/assets/1cebe6f3-02bf-4b8b-9e86-22bc6dfed832-->
-
 </p>
+
+**OneStop Electronics'** total sales from **2019 to 2022** reached **$28M**, with **108K total orders**. The company's **average order value (AOV)** across all years stands at **$260 per order**.
 
 - In **2020**, the company experienced a **significant spike in sales** across all metrics. **Sales revenue more than doubled** to **$10M**, driven by a **twofold increase in order volume** (**34K orders**). **MacBook Air** sales were the main product driver of this spike, growing **384%** from 2019-2020. **March 2020** marked the **highest month-over-month (MoM) growth** in the company's history, with a **50% increase in sales**. This surge can likely be attributed to the impact of increased demand due to COVID-19 and the resulting lockdowns
 
 - However, since 2020, the company has struggled to sustain the high sales levels seen during the pandemic. As global activities returned to normal, OneStop Electronics experienced **a decline in YoY growth**, with **sales revenue dropping by 10% in 2021** and a sharper decline of **46% in 2022**. **AOV and order count** have also followed a **similar trend**
 
-- The loyalty program, introduced in 2019, has shown promising growth potential. While non-loyalty members initially outperformed loyalty members in sales, the trend reversed in recent years, with loyalty members now leading in sales, order volume, and AOV. Retaining and optimizing the program could drive future growth
+- The loyalty program, introduced in 2019, has shown promising growth potential. While non-loyalty members initially outperformed loyalty members in sales, the trend reversed in recent years, with loyalty members now leading in sales, order volume, and AOV evening out. Retaining and optimizing the program could drive future growth
 
 - The Apple iPhone presents a strong opportunity for revenue growth. Despite low sales, its high AOV of $741 indicates untapped potential. Targeted strategies to boost iPhone sales could leverage the existing demand for Apple products and significantly increase revenue
 
