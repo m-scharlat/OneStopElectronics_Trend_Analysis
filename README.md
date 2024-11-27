@@ -30,12 +30,12 @@ In cleaning and analyzing OneStop's data, meaningful insights can be extracted f
 - For refunds and AOV specifically compare across Apple products
 </details>
 
-<details>
+<details open>
   <summary>Table of Contents</summary>
 
 - [Executive Summary](#executive-summary)
-- [Analysis](#sales-trends--growth-rates)
-    - [Sales Trends & Growth Rates](#sales-trends--growth-rates)
+- [Sales Analysis](#insights-deep-dive)
+    - [Historical & Seasonal Trends](#historical-trends)
     - [Product Trends](#product-trends)
     - [Geographical Trends](#geographical-trends)
     - [Loyalty Program](#loyalty-program)
@@ -61,9 +61,9 @@ In cleaning and analyzing OneStop's data, meaningful insights can be extracted f
 The following analysis will provide key insights to help guide the company’s strategy moving forward, focusing on areas like geographical trends, product mix, and loyalty program performance. These insights will enable OneStop Electronics to take informed action and identify new opportunities for growth and efficiency as the company navigates post-pandemic challenges.
 -->
 
-## Sales Trends & Growth Rates
+# Insights Deep Dive
 
-### Historical
+### Historical Trends
 
 <p align="center" width="100%">
 <img src="https://github.com/user-attachments/assets/3429f875-b034-4e89-96df-4c221ed4b8ff">
@@ -98,7 +98,7 @@ The following analysis will provide key insights to help guide the company’s s
 - The company saw its highest order volume in **December 2020**, with **4K orders**, and its lowest in **October 2022**, with **825 orders**
 -->
 
-### Seasonal
+### Seasonal Trends
 
 <p align="center" width="100%">
 <img src="https://github.com/user-attachments/assets/2368b333-720c-44e5-961b-ea3f1fb1b32d" height="80%" width="80%">
@@ -110,7 +110,7 @@ The following analysis will provide key insights to help guide the company’s s
 - **Fall Season AOV Trend:** The data show a seasonal 7% increase in AOV during the fall months (August-October)
 - **End-of-Year Sales Surge:** November and December consistently deliver a surge in revenue, with average monthly increases of 18% and 23% respectively
 
-## Product Trends
+# Product Trends
 
 <p align="center" width="100%">
 <img src="https://github.com/user-attachments/assets/48223ff5-db3a-432f-ad17-198600d68ac1">
@@ -127,7 +127,7 @@ The following analysis will provide key insights to help guide the company’s s
 - A deeper analysis across more granular time periods shows the iPhone maintains a high AOV, with a **monthly average of $737**. 
 - Given the popularity of other **Apple** products sold by the company, focusing on strategies to increase iPhone sales could provide a valuable opportunity to **significantly boost company revenue**
 
-## Geographical Trends
+# Geographical Trends
 
 > ### OneStop Electronics operates across four regions and 194 countries
 
@@ -157,7 +157,7 @@ The following analysis will provide key insights to help guide the company’s s
 - **AOV Performance:** Among these top 10 countries, Japan ($393) and the Netherlands ($289) have the highest AOV, while Spain has the lowest AOV at $223
 
  
-## Loyalty Program
+# Loyalty Program
 
 > ### Should the company keep the loyalty program?
 <p align="center" width="100%">
@@ -184,7 +184,7 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 
 <!-- Commented out parts -->
 
-## Refund Rates
+# Refund Rates
 
 **Overall Refund Rate:** The company-wide refund rate was **5%**, with **5,377 refunds** out of **108K orders**, totaling **$2.1M** in refunded sales
 
@@ -224,7 +224,7 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 - Approximately **60%** of Apple refunds **occurred in 2020**, with a notable decrease in 2021 and no refunds recorded in 2022
 
 <!---->
-## Recommendations
+# Recommendations
 
 Based on the analysis and insights, the team recommends the following: 
 
@@ -286,7 +286,7 @@ The company should track the effectiveness of these campaigns closely, evaluatin
 </details
 -->
 
-## Find Out More!
+## Appendix
 -  For more details about the dataset and the data cleaning process check out the [ERD](https://github.com/user-attachments/assets/31778750-444f-4955-b73f-fc152ed77e35)  and the [Dataset Summary & Issue Log](https://drive.google.com/file/d/16kxh6qG9sHhr-ZR1ZikRC5AjvIbR3Uq5/view?usp=sharing)
 -  Check out the full Excel [spreadsheet](https://github.com/m-scharlat/OneStopElectronics_Trend_Analysis/blob/main/Excel/OneStopElectronics_Analysis.xlsb)
 -  See more of my [exploration](https://github.com/m-scharlat/OneStopElectronics_Trend_Analysis/blob/main/SQL/OneStopElectronics_exploration.sql) and [analysis](https://github.com/m-scharlat/OneStopElectronics_Trend_Analysis/blob/main/SQL/OneStopElectronics_analysis.sql) in SQL
