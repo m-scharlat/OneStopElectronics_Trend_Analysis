@@ -293,7 +293,8 @@ The company should track the effectiveness of these campaigns closely, evaluatin
 To explore more trends use the interactive Tableau workbook [here](https://public.tableau.com/app/profile/mayer.scharlat/viz/OneStopElectronic-SalesDashboard/SalesDashboard)
 
 <p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/88633d1d-6f59-4fe8-847b-03ad13c90eba">
+<img src="https://github.com/user-attachments/assets/53e54652-233c-4dd3-8409-f50778f7f576">
+
 </p>
 
 ## Appendix
